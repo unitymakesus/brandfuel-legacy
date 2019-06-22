@@ -1,0 +1,8 @@
+[25-Mar-2018 10:22:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mod() in /home/brandfuel/public_html/wp-content/themes/erange-child-01/header.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/brandfuel/public_html/wp-content/themes/erange-child-01/header.php on line 2
+[25-Mar-2018 10:22:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mod() in /home/brandfuel/public_html/wp-content/themes/erange-child-01/header.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/brandfuel/public_html/wp-content/themes/erange-child-01/header.php on line 2

@@ -1,0 +1,4499 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Erange\n"
+"POT-Creation-Date: 2014-04-26 01:33+0700\n"
+"PO-Revision-Date: 2014-04-26 01:33+0700\n"
+"Last-Translator: \n"
+"Language-Team: EverisLabs <contact@everislabs.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ./.\n"
+
+#: 404.php:19
+msgid "404"
+msgstr ""
+
+#: 404.php:21
+msgid "The page your are looking for is not avaiable. Please search another"
+msgstr ""
+
+#: 404.php:26
+msgid "Type to search..."
+msgstr ""
+
+#: 404.php:29
+msgid "Search"
+msgstr ""
+
+#: archive.php:41
+msgid "No post found !"
+msgstr ""
+
+#: comments.php:18
+msgid "Comments"
+msgstr ""
+
+#: comments.php:31
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:32
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:37
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:47
+msgid "Add your comment"
+msgstr ""
+
+#: comments.php:56
+msgid "Name (required)"
+msgstr ""
+
+#: comments.php:58
+msgid "E-Mail (required)"
+msgstr ""
+
+#: comments.php:60
+msgid "Website"
+msgstr ""
+
+#: comments.php:69
+msgid "Submit comment"
+msgstr ""
+
+#: content-large.php:84 content-masonry.php:103 content-masonry.php:117
+#: content-medium.php:95 framework/templates/content-list.php:103
+#: framework/templates/content-list.php:117
+#: framework/templates/content-masonry.php:102
+#: framework/templates/content-masonry.php:116
+msgid "Permalink to: "
+msgstr ""
+
+#: content-large.php:92 content-medium.php:107
+msgid "This entry was posted by"
+msgstr ""
+
+#: content-large.php:94 content-masonry.php:98 content-masonry.php:129
+#: content-medium.php:109 framework/widgets.php:274
+#: framework/templates/content-list.php:98
+#: framework/templates/content-list.php:129
+#: framework/templates/content-masonry.php:97
+#: framework/templates/content-masonry.php:128
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: content-large.php:96 content-medium.php:111
+msgid "on"
+msgstr ""
+
+#: content-masonry.php:109 framework/templates/content-list.php:109
+#: framework/templates/content-masonry.php:108
+msgid "Read more"
+msgstr ""
+
+#: footer.php:45
+msgid ""
+"Wrong setting for footer columns widget. Please make sure total columns "
+"width not bigger than 12."
+msgstr ""
+
+#: footer.php:92
+msgid ""
+"Wrong setting for footer columns widget of second row. Please make sure "
+"total columns width not bigger than 12."
+msgstr ""
+
+#: functions.php:65
+msgid "Navigation Menu"
+msgstr ""
+
+#: functions.php:66
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:162
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: functions.php:188
+msgid "Footer "
+msgstr ""
+
+#: functions.php:190
+msgid "Appears in footer area."
+msgstr ""
+
+#: heading.php:28
+msgid "Homepage"
+msgstr ""
+
+#: heading.php:30
+msgid "Content not found"
+msgstr ""
+
+#: heading.php:32
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: heading.php:34
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: heading.php:36
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: heading.php:40
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: heading.php:42
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: heading.php:44
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: heading.php:46 framework/posts.php:165
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: heading.php:48
+msgid "Archives"
+msgstr ""
+
+#: heading.php:72
+msgid "Select Portfolio Type"
+msgstr ""
+
+#: heading.php:91
+msgid "Select Portfolio Width"
+msgstr ""
+
+#: page-portfolio-filter.php:20 page.php:26 single-job.php:43
+#: single-portfolio.php:49 single.php:93 css/single-portfolio.php:45
+msgid "Pages:"
+msgstr ""
+
+#: single-job.php:48
+msgid "Quick Apply"
+msgstr ""
+
+#: single-portfolio.php:62
+msgid "published"
+msgstr ""
+
+#: single-portfolio.php:69 css/single-portfolio.php:60
+#: framework/portfolio.php:58 framework/post-type.php:53
+#: framework/js-composer/map.php:1887
+msgid "Categories"
+msgstr ""
+
+#: single-portfolio.php:80 single.php:100 css/single-portfolio.php:71
+#: framework/portfolio.php:84 framework/js-composer/map.php:1893
+msgid "Tags"
+msgstr ""
+
+#: single-portfolio.php:91 css/single-portfolio.php:82
+#: framework/metabox.php:255
+msgid "Release Date"
+msgstr ""
+
+#: single-portfolio.php:102 css/single-portfolio.php:93
+#: framework/metabox.php:231
+msgid "Author"
+msgstr ""
+
+#: single-portfolio.php:113 css/single-portfolio.php:104
+#: framework/metabox.php:239
+msgid "Partner"
+msgstr ""
+
+#: single-portfolio.php:124 css/single-portfolio.php:115
+#: framework/metabox.php:247
+msgid "Customer"
+msgstr ""
+
+#: single-portfolio.php:144 css/single-portfolio.php:136
+msgid "View this projects"
+msgstr ""
+
+#: single-portfolio.php:147
+msgid "Create new project"
+msgstr ""
+
+#: single-portfolio.php:177 css/single-portfolio.php:168
+msgid "Recent <span>Projects</span>"
+msgstr ""
+
+#: single-portfolio.php:178 css/single-portfolio.php:169
+msgid "same project you are viewing"
+msgstr ""
+
+#: single.php:105
+msgid "No tags found"
+msgstr ""
+
+#: single.php:112 framework/portfolio.php:59 framework/portfolio.php:68
+#: framework/post-type.php:54 framework/post-type.php:63
+#: framework/js-composer/map.php:2471
+msgid "Category"
+msgstr ""
+
+#: framework/metabox.php:13
+msgid "Default Sidebar"
+msgstr ""
+
+#: framework/metabox.php:14
+msgid "Shop Sidebar"
+msgstr ""
+
+#: framework/metabox.php:28
+msgid "Custom Heading"
+msgstr ""
+
+#: framework/metabox.php:37
+msgid "Custom Heading Title"
+msgstr ""
+
+#: framework/metabox.php:42
+msgid "Header Background Image"
+msgstr ""
+
+#: framework/metabox.php:48
+msgid "Heading Background Image"
+msgstr ""
+
+#: framework/metabox.php:54
+msgid "Heading Background Height (Pixel)"
+msgstr ""
+
+#: framework/metabox.php:60
+msgid "Heading Background Repeat"
+msgstr ""
+
+#: framework/metabox.php:64 framework/js-composer/map.php:170
+msgid "Cover"
+msgstr ""
+
+#: framework/metabox.php:65 framework/js-composer/map.php:172
+msgid "Repeat"
+msgstr ""
+
+#: framework/metabox.php:69
+msgid "Advance Page Menus"
+msgstr ""
+
+#: framework/metabox.php:74
+msgid "Header Content"
+msgstr ""
+
+#: framework/metabox.php:79
+msgid "Above Footer Content"
+msgstr ""
+
+#: framework/metabox.php:90
+msgid "Custom Page/Post Settings"
+msgstr ""
+
+#: framework/metabox.php:99 framework/metabox.php:161
+msgid "Choose page with & sidebar"
+msgstr ""
+
+#: framework/metabox.php:103
+msgid "Right sidebar"
+msgstr ""
+
+#: framework/metabox.php:104
+msgid "Left Sidebar"
+msgstr ""
+
+#: framework/metabox.php:105
+msgid "Full Width"
+msgstr ""
+
+#: framework/metabox.php:113
+msgid "Sidebar Widget"
+msgstr ""
+
+#: framework/metabox.php:122
+msgid "Force full width"
+msgstr ""
+
+#: framework/metabox.php:130
+msgid "Show Page Heading"
+msgstr ""
+
+#: framework/metabox.php:138
+msgid "Show Page Title"
+msgstr ""
+
+#: framework/metabox.php:152
+msgid "Custom Archive Settings"
+msgstr ""
+
+#: framework/metabox.php:165
+msgid "Masonry"
+msgstr ""
+
+#: framework/metabox.php:166 framework/js-composer/map.php:106
+#: framework/js-composer/map.php:688
+msgid "Large"
+msgstr ""
+
+#: framework/metabox.php:167 framework/js-composer/map.php:104
+#: framework/js-composer/map.php:687
+msgid "Medium"
+msgstr ""
+
+#: framework/metabox.php:181
+msgid ""
+"Portfolio Page Option (Only apply when select Portfolio Filter Page "
+"Templates)"
+msgstr ""
+
+#: framework/metabox.php:190
+msgid "Choose portfolio column item"
+msgstr ""
+
+#: framework/metabox.php:194
+#: framework/admin/functions/functions.options.php:887
+#: framework/js-composer/map.php:1553 framework/js-composer/map.php:1589
+#: framework/js-composer/map.php:1817 framework/js-composer/map.php:1866
+#: framework/js-composer/map.php:1912 framework/js-composer/map.php:2321
+#: framework/js-composer/map.php:2364 framework/js-composer/map.php:2402
+#: framework/js-composer/map.php:2445 framework/js-composer/map.php:2493
+#: framework/js-composer/map.php:2537 framework/js-composer/map.php:2571
+#: framework/js-composer/map.php:2593 framework/js-composer/map.php:2636
+msgid "4 Columns"
+msgstr ""
+
+#: framework/metabox.php:195
+#: framework/admin/functions/functions.options.php:886
+#: framework/js-composer/map.php:1552 framework/js-composer/map.php:1588
+#: framework/js-composer/map.php:1816 framework/js-composer/map.php:1865
+#: framework/js-composer/map.php:1911 framework/js-composer/map.php:2320
+#: framework/js-composer/map.php:2363 framework/js-composer/map.php:2401
+#: framework/js-composer/map.php:2444 framework/js-composer/map.php:2492
+#: framework/js-composer/map.php:2536 framework/js-composer/map.php:2570
+#: framework/js-composer/map.php:2592 framework/js-composer/map.php:2635
+msgid "3 Columns"
+msgstr ""
+
+#: framework/metabox.php:203
+msgid "Items per page"
+msgstr ""
+
+#: framework/metabox.php:210
+msgid "Enable Filter"
+msgstr ""
+
+#: framework/metabox.php:222
+msgid "Portfolio Infomations"
+msgstr ""
+
+#: framework/metabox.php:233
+msgid "Author of project"
+msgstr ""
+
+#: framework/metabox.php:241
+msgid "Your Partner"
+msgstr ""
+
+#: framework/metabox.php:249
+msgid "Your Customer"
+msgstr ""
+
+#: framework/metabox.php:257
+msgid "Project Release Date"
+msgstr ""
+
+#: framework/metabox.php:260 framework/metabox.php:328
+msgid "(mm-dd-yyyy)"
+msgstr ""
+
+#: framework/metabox.php:261 framework/metabox.php:329
+msgid "mm-dd-yy"
+msgstr ""
+
+#: framework/metabox.php:268
+msgid "Project Link"
+msgstr ""
+
+#: framework/metabox.php:270
+msgid "URL of your project"
+msgstr ""
+
+#: framework/metabox.php:275
+msgid "Cusom Field"
+msgstr ""
+
+#: framework/metabox.php:277
+msgid "Add your custom field"
+msgstr ""
+
+#: framework/metabox.php:283
+msgid "Project Images"
+msgstr ""
+
+#: framework/metabox.php:287
+msgid "Upload your project images"
+msgstr ""
+
+#: framework/metabox.php:294
+msgid "Project Video"
+msgstr ""
+
+#: framework/metabox.php:298
+msgid "Video Emb Code"
+msgstr ""
+
+#: framework/metabox.php:309
+msgid "Job informations"
+msgstr ""
+
+#: framework/metabox.php:318
+msgid "Salary"
+msgstr ""
+
+#: framework/metabox.php:324
+msgid "End Date"
+msgstr ""
+
+#: framework/metabox.php:336
+msgid "Contact Form 7 Shortcode"
+msgstr ""
+
+#: framework/plugin-activation.php:164
+msgid "Install Required Plugins"
+msgstr ""
+
+#: framework/plugin-activation.php:165
+msgid "Install Plugins"
+msgstr ""
+
+#: framework/plugin-activation.php:166
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: framework/plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: framework/plugin-activation.php:178 framework/plugin-activation.php:490
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: framework/plugin-activation.php:179 framework/plugin-activation.php:1846
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: framework/plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: framework/plugin-activation.php:517 framework/plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: framework/plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: framework/plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr ""
+
+#: framework/plugin-activation.php:1091
+msgid "External Link"
+msgstr ""
+
+#: framework/plugin-activation.php:1096
+msgid "Private Repository"
+msgstr ""
+
+#: framework/plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr ""
+
+#: framework/plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr ""
+
+#: framework/plugin-activation.php:1106
+msgid "Required"
+msgstr ""
+
+#: framework/plugin-activation.php:1106
+msgid "Recommended"
+msgstr ""
+
+#: framework/plugin-activation.php:1109
+msgid "Not Installed"
+msgstr ""
+
+#: framework/plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: framework/plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: framework/plugin-activation.php:1297
+msgid "Plugin"
+msgstr ""
+
+#: framework/plugin-activation.php:1298
+msgid "Source"
+msgstr ""
+
+#: framework/plugin-activation.php:1299 framework/post-type.php:79
+#: framework/post-type.php:80 framework/post-type.php:89
+msgid "Type"
+msgstr ""
+
+#: framework/plugin-activation.php:1300 woocommerce/myaccount/my-orders.php:34
+msgid "Status"
+msgstr ""
+
+#: framework/plugin-activation.php:1318
+msgid "Install"
+msgstr ""
+
+#: framework/plugin-activation.php:1319
+msgid "Activate"
+msgstr ""
+
+#: framework/plugin-activation.php:1829
+msgid "Install package not available."
+msgstr ""
+
+#: framework/plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: framework/plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: framework/plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: framework/plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr ""
+
+#: framework/plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: framework/plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr ""
+
+#: framework/plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: framework/plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: framework/plugin-activation.php:1956 framework/plugin-activation.php:1965
+msgid "Show Details"
+msgstr ""
+
+#: framework/plugin-activation.php:1956 framework/plugin-activation.php:1965
+msgid "Hide Details"
+msgstr ""
+
+#: framework/plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: framework/plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: framework/plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: framework/plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: framework/plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: framework/plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr ""
+
+#: framework/plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/portfolio.php:12 framework/portfolio.php:13
+#: framework/portfolio.php:24
+#: framework/admin/functions/functions.options.php:842
+msgid "Portfolio"
+msgstr ""
+
+#: framework/portfolio.php:14 framework/post-type.php:12
+msgid "Add New"
+msgstr ""
+
+#: framework/portfolio.php:15
+msgid "Add New Project"
+msgstr ""
+
+#: framework/portfolio.php:16
+msgid "Edit Project"
+msgstr ""
+
+#: framework/portfolio.php:17
+msgid "New Project"
+msgstr ""
+
+#: framework/portfolio.php:18
+msgid "All Projects"
+msgstr ""
+
+#: framework/portfolio.php:19
+msgid "View Project"
+msgstr ""
+
+#: framework/portfolio.php:20
+msgid "Search Project"
+msgstr ""
+
+#: framework/portfolio.php:21
+msgid "No projects found"
+msgstr ""
+
+#: framework/portfolio.php:22
+msgid "No projects found in Trash"
+msgstr ""
+
+#: framework/portfolio.php:60 framework/post-type.php:55
+msgid "Search Categories"
+msgstr ""
+
+#: framework/portfolio.php:61 framework/post-type.php:56
+msgid "All Categories"
+msgstr ""
+
+#: framework/portfolio.php:62 framework/post-type.php:57
+msgid "Parent Category"
+msgstr ""
+
+#: framework/portfolio.php:63 framework/post-type.php:58
+msgid "Parent Category:"
+msgstr ""
+
+#: framework/portfolio.php:64 framework/post-type.php:59
+msgid "Edit Category"
+msgstr ""
+
+#: framework/portfolio.php:65 framework/post-type.php:60
+msgid "Update Category"
+msgstr ""
+
+#: framework/portfolio.php:66 framework/post-type.php:61
+msgid "Add New Category"
+msgstr ""
+
+#: framework/portfolio.php:67 framework/post-type.php:62
+msgid "New Category Name"
+msgstr ""
+
+#: framework/portfolio.php:85 framework/portfolio.php:94
+msgid "Tag"
+msgstr ""
+
+#: framework/portfolio.php:86
+msgid "Search Tags"
+msgstr ""
+
+#: framework/portfolio.php:87
+msgid "All Tags"
+msgstr ""
+
+#: framework/portfolio.php:88
+msgid "Parent Tag"
+msgstr ""
+
+#: framework/portfolio.php:89
+msgid "Parent Tag:"
+msgstr ""
+
+#: framework/portfolio.php:90
+msgid "Edit Tag"
+msgstr ""
+
+#: framework/portfolio.php:91
+msgid "Update Tag"
+msgstr ""
+
+#: framework/portfolio.php:92
+msgid "Add New Tag"
+msgstr ""
+
+#: framework/portfolio.php:93
+msgid "New Tag Name"
+msgstr ""
+
+#: framework/post-like.php:198
+msgid "You Like:"
+msgstr ""
+
+#: framework/post-type.php:10 framework/post-type.php:11
+#: framework/post-type.php:22
+msgid "Job"
+msgstr ""
+
+#: framework/post-type.php:13
+msgid "Add New Job"
+msgstr ""
+
+#: framework/post-type.php:14
+msgid "Edit Job"
+msgstr ""
+
+#: framework/post-type.php:15
+msgid "New Job"
+msgstr ""
+
+#: framework/post-type.php:16
+msgid "All Jobs"
+msgstr ""
+
+#: framework/post-type.php:17
+msgid "View Job"
+msgstr ""
+
+#: framework/post-type.php:18
+msgid "Search Job"
+msgstr ""
+
+#: framework/post-type.php:19
+msgid "No Jobs found"
+msgstr ""
+
+#: framework/post-type.php:20
+msgid "No Jobs found in Trash"
+msgstr ""
+
+#: framework/post-type.php:81
+msgid "Search Types"
+msgstr ""
+
+#: framework/post-type.php:82
+msgid "All Types"
+msgstr ""
+
+#: framework/post-type.php:83
+msgid "Parent Type"
+msgstr ""
+
+#: framework/post-type.php:84
+msgid "Parent Type:"
+msgstr ""
+
+#: framework/post-type.php:85
+msgid "Edit Type"
+msgstr ""
+
+#: framework/post-type.php:86
+msgid "Update Type"
+msgstr ""
+
+#: framework/post-type.php:87
+msgid "Add New Type"
+msgstr ""
+
+#: framework/post-type.php:88
+msgid "New Type Name"
+msgstr ""
+
+#: framework/post-type.php:105 framework/post-type.php:106
+#: framework/post-type.php:115
+msgid "Place"
+msgstr ""
+
+#: framework/post-type.php:107
+msgid "Search Places"
+msgstr ""
+
+#: framework/post-type.php:108
+msgid "All Places"
+msgstr ""
+
+#: framework/post-type.php:109
+msgid "Parent Place"
+msgstr ""
+
+#: framework/post-type.php:110
+msgid "Parent Place:"
+msgstr ""
+
+#: framework/post-type.php:111
+msgid "Edit Place"
+msgstr ""
+
+#: framework/post-type.php:112
+msgid "Update Place"
+msgstr ""
+
+#: framework/post-type.php:113
+msgid "Add New Place"
+msgstr ""
+
+#: framework/post-type.php:114
+msgid "New Place Name"
+msgstr ""
+
+#: framework/posts.php:81
+msgid "No previous post"
+msgstr ""
+
+#: framework/posts.php:88
+msgid "No next post"
+msgstr ""
+
+#: framework/posts.php:95
+msgid "Previous Post"
+msgstr ""
+
+#: framework/posts.php:101
+msgid "Next Post"
+msgstr ""
+
+#: framework/posts.php:166
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: framework/posts.php:169
+msgid "(Edit)"
+msgstr ""
+
+#: framework/posts.php:176
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: framework/shortcodes.php:28
+msgid "alert"
+msgstr ""
+
+#: framework/theme-functions.php:171 woocommerce/global/breadcrumb.php:203
+msgid "Page"
+msgstr ""
+
+#: framework/widgets.php:23
+msgid "Displays Feedburner email subscribe form"
+msgstr ""
+
+#: framework/widgets.php:26
+msgid "Erange - eNews and Updates"
+msgstr ""
+
+#: framework/widgets.php:78 framework/js-composer/map.php:393
+#: framework/js-composer/map.php:935 framework/js-composer/map.php:1055
+#: framework/js-composer/map.php:1130 framework/js-composer/map.php:1224
+#: framework/js-composer/map.php:1442 framework/js-composer/map.php:1623
+#: framework/js-composer/map.php:1681 framework/js-composer/map.php:1721
+#: framework/js-composer/map.php:1764 framework/js-composer/map.php:1822
+#: framework/js-composer/map.php:1917 framework/js-composer/map.php:1958
+#: framework/js-composer/map.php:1986 framework/js-composer/map.php:2073
+#: framework/js-composer/map.php:2331 framework/js-composer/map.php:2374
+#: framework/js-composer/map.php:2412 framework/js-composer/map.php:2455
+#: framework/js-composer/map.php:2503 framework/js-composer/map.php:2547
+#: framework/js-composer/map.php:2603 framework/js-composer/map.php:2646
+msgid "Title"
+msgstr ""
+
+#: framework/widgets.php:83
+msgid "Text To Show"
+msgstr ""
+
+#: framework/widgets.php:88
+msgid "Google/Feedburner ID"
+msgstr ""
+
+#: framework/widgets.php:93
+msgid "Your Email"
+msgstr ""
+
+#: framework/widgets.php:94
+msgid "Input Text"
+msgstr ""
+
+#: framework/widgets.php:99
+msgid "Go"
+msgstr ""
+
+#: framework/widgets.php:100
+msgid "Button Text"
+msgstr ""
+
+#: framework/widgets.php:118
+msgid "Shows recent portfolio images in sidebar."
+msgstr ""
+
+#: framework/widgets.php:120
+msgid "Erange - Recent Projects"
+msgstr ""
+
+#: framework/widgets.php:183 framework/widgets.php:299
+#: framework/widgets.php:383 framework/widgets.php:437
+#: framework/widgets.php:493 framework/widgets.php:539
+#: framework/widgets.php:592 framework/widgets.php:662
+#: framework/widgets.php:722
+msgid "Title:"
+msgstr ""
+
+#: framework/widgets.php:186
+msgid "Number of projects to show:"
+msgstr ""
+
+#: framework/widgets.php:190 framework/widgets.php:306
+msgid "Categories:"
+msgstr ""
+
+#: framework/widgets.php:226
+msgid "Shows recent posts in sidebar."
+msgstr ""
+
+#: framework/widgets.php:228
+msgid "Erange - Recent Posts"
+msgstr ""
+
+#: framework/widgets.php:302
+msgid "Number of posts to show:"
+msgstr ""
+
+#: framework/widgets.php:342
+msgid "Shows category listing in sidebar."
+msgstr ""
+
+#: framework/widgets.php:344
+msgid "Erange - Category List"
+msgstr ""
+
+#: framework/widgets.php:364
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: framework/widgets.php:399
+msgid "Display contact infomations"
+msgstr ""
+
+#: framework/widgets.php:401
+msgid "Erange - Contact Info"
+msgstr ""
+
+#: framework/widgets.php:440
+msgid "Address:"
+msgstr ""
+
+#: framework/widgets.php:443
+msgid "Phone:"
+msgstr ""
+
+#: framework/widgets.php:446
+msgid "Fax:"
+msgstr ""
+
+#: framework/widgets.php:449 woocommerce/emails/admin-new-order.php:53
+#: woocommerce/emails/customer-completed-order.php:54
+#: woocommerce/emails/customer-note.php:58
+#: woocommerce/emails/customer-processing-order.php:54
+#: woocommerce/emails/plain/admin-new-order.php:42
+#: woocommerce/emails/plain/customer-completed-order.php:41
+#: woocommerce/emails/plain/customer-note.php:49
+#: woocommerce/emails/plain/customer-processing-order.php:41
+#: woocommerce/order/order-details.php:101
+msgid "Email:"
+msgstr ""
+
+#: framework/widgets.php:452
+msgid "Website:"
+msgstr ""
+
+#: framework/widgets.php:467
+msgid "Display video in Widget"
+msgstr ""
+
+#: framework/widgets.php:469
+msgid "Erange - Video Embed"
+msgstr ""
+
+#: framework/widgets.php:496
+msgid "Video Embed Code:"
+msgstr ""
+
+#: framework/widgets.php:511
+msgid "Display Flickr images"
+msgstr ""
+
+#: framework/widgets.php:513
+msgid "Erange - Flickr Images"
+msgstr ""
+
+#: framework/widgets.php:542
+msgid "Flickr ID:"
+msgstr ""
+
+#: framework/widgets.php:545 framework/widgets.php:598
+msgid "Number:"
+msgstr ""
+
+#: framework/widgets.php:560
+msgid "Display Lastest Tweet"
+msgstr ""
+
+#: framework/widgets.php:562
+msgid "Erange - New Tweets"
+msgstr ""
+
+#: framework/widgets.php:595
+msgid "Twitter ID:"
+msgstr ""
+
+#: framework/widgets.php:613
+msgid "Display Social Media Network Link"
+msgstr ""
+
+#: framework/widgets.php:615
+msgid "Erange - Social Media"
+msgstr ""
+
+#: framework/widgets.php:677
+msgid "Add a custom menu to your sidebar."
+msgstr ""
+
+#: framework/widgets.php:679
+msgid "Erange - Fixed Custom Menu"
+msgstr ""
+
+#: framework/widgets.php:717
+#, php-format
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr ""
+
+#: framework/widgets.php:726
+msgid "Select Menu:"
+msgstr ""
+
+#: framework/admin/classes/class.options_machine.php:1104
+msgid "Last Backup : "
+msgstr ""
+
+#: framework/admin/front-end/options.php:43
+#: framework/admin/front-end/options.php:67
+msgid "Save All Changes"
+msgstr ""
+
+#: framework/admin/front-end/options.php:68
+msgid "Options Reset"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:83
+#: framework/admin/functions/functions.options.php:681
+msgid "General"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:89
+msgid "Tracking Code"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:90
+msgid "Paste your Google Analytics Code (or other) here."
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:100
+msgid "Favicons"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:106
+msgid "Favicon Upload (16x16)"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:107
+msgid ""
+"Upload your Favicon (16x16px ico/png - use <a href='http://www.favicon.cc/' "
+"target='_blank'>favicon.cc</a> to make sure it's fully compatible)"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:115
+msgid "Apple iPhone Icon Upload (57x57)"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:116
+msgid "Upload your Apple Touch Icon (57x57px png)"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:124
+msgid "Apple iPhone Retina Icon Upload (114x114)"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:125
+msgid "Upload your Apple Touch Retina Icon (114x114px png)"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:133
+msgid "Apple iPad Icon Upload (72x72)"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:134
+#: framework/admin/functions/functions.options.php:143
+msgid "Upload your Apple Touch Retina Icon (144x144px png)"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:142
+msgid "Apple iPad Retina Icon Upload (144x144px)"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:162
+msgid "Layout Options"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:169
+msgid "Choose your Layout Style"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:174
+#: framework/js-composer/map.php:171
+msgid "Fullwidth"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:175
+msgid "Boxed Layout"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:176
+msgid "Boxed Margin Layout"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:181
+msgid "Enable Fixed Header"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:184
+msgid "Enable"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:185
+msgid "Disable"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:193
+msgid "Boxed Layout Options (only work when Boxed Layout is enabled)"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:199
+msgid "Background Images"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:200
+msgid "Select a background pattern."
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:208
+msgid "Custom Background Image"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:209
+msgid "Upload default Background or paste Image URL"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:217
+msgid "Theme Stylesheet"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:218
+msgid "Select Background Repeat Option for the default Background."
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:220
+msgid "Stretch Image"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:232
+msgid "Default Background Color"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:233
+msgid "Select Color for default Background"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:251
+msgid "Header Options"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:257
+msgid "Display Logo"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:258
+msgid "Display logo or text ?"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:269
+msgid "Call Us Text"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:270
+msgid "Enter your Call us Text (HTML allowed)"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:272
+msgid "Call Us: (1)118 234 678 - Mail info@example.com"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:280
+msgid "Logo Options"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:286
+msgid "Header Height (without px)"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:287
+msgid "Header Height (Default: auto)"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:294
+msgid "Logo Upload"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:295
+msgid "Upload your Logo"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:303
+msgid "Logo Top Margin"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:304
+msgid "Enter your Top margin value for the Logo in pixels (Default: 0px)"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:311
+msgid "Logo Bottom Margin"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:312
+msgid "Enter your Bottom margin value for the Logo in pixels (Default: 0px)"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:322
+msgid "Optional: Retina Logo Options"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:328
+msgid "Logo Upload Retina"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:329
+msgid ""
+"Upload your Retina Logo. This should be your Logo in double size (If your "
+"logo is 100 x 20px, it should be 200 x 40px)"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:340
+msgid "Footer"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:345
+msgid "Footer Row"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:346
+msgid "Select number of row of Footer"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:360
+msgid "Footer Widgets Options"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:366
+msgid "Footer Widget 1 Width"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:367
+msgid "Select width of Widget 1"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:375
+msgid "Footer Widget 2 Width"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:376
+msgid "Select width of Widget 2"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:384
+msgid "Footer Column 3 Width"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:385
+msgid "Select width of Widget 3"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:393
+msgid "Footer Column 4 Width"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:394
+msgid "Select width of Widget 4"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:405
+msgid "Footer 2nd Row Widgets Options"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:411
+msgid "Footer Widget 5 Width"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:412
+msgid "Select width of Widget 5"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:420
+msgid "Footer Widget 6 Width"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:421
+msgid "Select width of Widget 6"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:429
+msgid "Footer Column 7 Width"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:430
+msgid "Select width of Widget 7"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:438
+msgid "Footer Column 8 Width"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:439
+msgid "Select width of Widget 8"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:450
+msgid "Credit Options"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:456
+msgid "Copyright Text"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:457
+msgid "Enter your Copyright Text (HTML allowed)"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:459
+msgid "Copyright [years] by [sitename]. Powered by WordPress"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:467
+msgid "Typography"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:475
+msgid "Body"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:481
+msgid "Body Text Font"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:482
+msgid "Specify the Body font properties"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:497
+msgid "Headlines"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:503
+msgid "H1 - Headline Font"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:504
+msgid "Specify the H1 Headline font properties"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:516
+msgid "H2 - Headline Font"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:517
+msgid "Specify the H2 Headline font properties"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:529
+msgid "H3 - Headline Font"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:530
+msgid "Specify the H3 Headline font properties"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:542
+msgid "H4 - Headline Font"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:543
+msgid "Specify the H4 Headline font properties"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:555
+msgid "H5 - Headline Font"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:556
+msgid "Specify the H5 Headline font properties"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:568
+msgid "H6 - Headline Font"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:569
+msgid "Specify the H6 Headline font properties"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:584
+msgid "Headlines Large"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:590
+msgid "H1 - Headline Large Font"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:591
+msgid "Specify the H1 Headline Large Font properties"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:603
+msgid "H2 - Headline Large Font"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:604
+msgid "Specify the H2 Headline Large Font properties"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:616
+msgid "H3 - Headline Large Font"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:617
+msgid "Specify the H3 Headline Large Font properties"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:629
+msgid "H4 - Headline Large Font"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:630
+msgid "Specify the H4 Headline Large Font properties"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:642
+msgid "H5 - Headline Large Font"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:643
+msgid "Specify the H5 Headline Large Font properties"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:655
+msgid "H6 - Headline Large Font"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:656
+msgid "Specify the H6 Headline Large Font properties"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:688
+msgid "Pre-Define Theme Color"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:689
+msgid "Select your theme color."
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:709
+msgid "Custom Theme Color"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:715
+msgid "Theme Color"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:716
+msgid "Default: #EF4A43"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:727
+msgid "Post and Page"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:735
+msgid "Post and Page Options"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:741
+msgid "Blog Layout"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:742
+msgid "Choose your Default Blog Layout"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:747
+msgid "Blog Normal"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:748
+msgid "Blog Medium"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:749
+msgid "Blog Masonry"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:754
+msgid "Blog Sidebar Position"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:755
+msgid "Blog Listing Sidebar Position"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:766
+msgid "Enable Share-Box on Post Detail"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:767
+msgid "Check to enable Share-Box"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:774
+msgid "Blog Excerpt Length"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:775
+msgid "Default: 30. Used for blog page, archives & search results."
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:782
+msgid "Enable Author-Box on Post Detail"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:783
+msgid "Check to enable Author-Box"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:790
+msgid "Enable Relate Post on Post Detail"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:791
+msgid "Check to enable Relate Post on Post Detail"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:798
+msgid "Permanently Disable Page Comments"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:799
+msgid "Check to disable page comments"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:806
+msgid "Permanently Disable Post Comments"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:807
+msgid "Check to disable post comments"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:825
+msgid "Creat Sidebar"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:831
+msgid "Create Sidebar Area"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:832
+msgid "Unlimited slider with drag and drop sortings."
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:850
+msgid "Portfolio Options"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:856
+msgid "Portfolio Slug"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:857
+msgid ""
+"Enter the URL Slug for your Portfolio (Default: portfolio-item) <br /"
+"><strong>Go save your permalinks after changing this.</strong>"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:864
+msgid "Custom Category Slug"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:865
+msgid ""
+"Enter the Category Taxonomy Slug for your Portfolio (Default: "
+"portfolio_category) <br /><strong>Go save your permalinks after changing "
+"this.</strong>"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:872
+msgid "Custom Tag Slug"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:873
+msgid ""
+"Enter the Tag Taxonomy Slug for your Portfolio (Default: portfolio_tag) <br /"
+"><strong>Go save your permalinks after changing this.</strong>"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:880
+msgid "Portfolio Archive Columns"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:881
+msgid "Choose number columns of Potfolio archive"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:892
+msgid "Create new project URl"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:893
+msgid "Enter create new project URL."
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:903
+msgid "Recent Portfolio"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:909
+msgid "Recent Portfolio Heading"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:910
+#: framework/admin/functions/functions.options.php:918
+msgid "Enter Recent Portfolio Title"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:917
+msgid "Recent Portfolio Sub-heading"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:925
+msgid "Recent Portfolio Description"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:926
+msgid "Enter Recent Portfolio Desc"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:936
+msgid "Social Media"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:941
+msgid "Hello there!"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:944
+msgid ""
+"Enter your username / URL to show or leave blank to hide Social Media Icons"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:950
+msgid "Twitter Username"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:951
+msgid "Enter your Twitter username"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:958
+msgid "Dribbble URL"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:959
+msgid "Enter URL to your Dribbble Account"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:966
+msgid "Flickr URL"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:967
+msgid "Enter URL to your Flickr Account"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:974
+#: framework/js-composer/map.php:491
+msgid "Facebook URL"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:975
+msgid "Enter URL to your Facebook Account"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:982
+msgid "Google+ URL"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:983
+msgid "Enter URL to your Google+ Account"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:990
+msgid "LinkedIn URL"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:991
+msgid "Enter URL to your LinkedIn Account"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:998
+msgid "YouTube URL"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:999
+msgid "Enter URL to your YouTube Account"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:1006
+msgid "Pinterest URL"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:1007
+msgid "Enter URL to your Pinterest Account"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:1014
+msgid "Vimeo URL"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:1015
+msgid "Enter URL to your Vimeo Account"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:1022
+msgid "Instargram URL"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:1023
+msgid "Enter URL to your Instagram Account"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:1030
+msgid "Show RSS"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:1031
+msgid "Check to Show RSS Icon"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:1041
+#: framework/admin/functions/functions.options.php:1055
+msgid "Custom CSS"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:1049
+msgid "Insert your custom CSS"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:1056
+msgid "Advanced CSS Options. Paste your CSS Code."
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:1066
+msgid "Backup Options"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:1071
+msgid "Backup and Restore Options"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:1075
+msgid ""
+"You can use the two buttons below to backup your current options, and then "
+"restore it back at a later time. This is useful if you want to experiment on "
+"the options but would like to keep the old settings in case you need it back."
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:1079
+msgid "Transfer Theme Options Data"
+msgstr ""
+
+#: framework/admin/functions/functions.options.php:1083
+msgid ""
+"You can tranfer the saved options data between different installs by copying "
+"the text inside the text box. To import data from another install, replace "
+"the data in the text box with the one from another install and click "
+"\"Import Options\"."
+msgstr ""
+
+#: framework/js-composer/map.php:13
+msgid "Default"
+msgstr ""
+
+#: framework/js-composer/map.php:14
+msgid "Green"
+msgstr ""
+
+#: framework/js-composer/map.php:15
+msgid "Red"
+msgstr ""
+
+#: framework/js-composer/map.php:16
+msgid "Orange"
+msgstr ""
+
+#: framework/js-composer/map.php:17
+msgid "Yellow"
+msgstr ""
+
+#: framework/js-composer/map.php:18
+msgid "Blue"
+msgstr ""
+
+#: framework/js-composer/map.php:19 framework/js-composer/map.php:408
+#: framework/js-composer/map.php:865
+msgid "Black"
+msgstr ""
+
+#: framework/js-composer/map.php:20
+msgid "Gray"
+msgstr ""
+
+#: framework/js-composer/map.php:21 framework/js-composer/map.php:407
+#: framework/js-composer/map.php:866
+msgid "White"
+msgstr ""
+
+#: framework/js-composer/map.php:22 framework/js-composer/map.php:403
+#: framework/js-composer/map.php:947 framework/js-composer/map.php:1181
+msgid "Color"
+msgstr ""
+
+#: framework/js-composer/map.php:26
+msgid "bounce"
+msgstr ""
+
+#: framework/js-composer/map.php:27
+msgid "flash"
+msgstr ""
+
+#: framework/js-composer/map.php:28
+msgid "pulse"
+msgstr ""
+
+#: framework/js-composer/map.php:29
+msgid "rubberBand"
+msgstr ""
+
+#: framework/js-composer/map.php:30
+msgid "shake"
+msgstr ""
+
+#: framework/js-composer/map.php:31
+msgid "swing"
+msgstr ""
+
+#: framework/js-composer/map.php:32
+msgid "tada"
+msgstr ""
+
+#: framework/js-composer/map.php:33
+msgid "wobble"
+msgstr ""
+
+#: framework/js-composer/map.php:34
+msgid "bounceIn"
+msgstr ""
+
+#: framework/js-composer/map.php:35
+msgid "bounceInDown"
+msgstr ""
+
+#: framework/js-composer/map.php:36
+msgid "bounceInLeft"
+msgstr ""
+
+#: framework/js-composer/map.php:37
+msgid "bounceInRight"
+msgstr ""
+
+#: framework/js-composer/map.php:38
+msgid "bounceInUp"
+msgstr ""
+
+#: framework/js-composer/map.php:39
+msgid "bounceOut"
+msgstr ""
+
+#: framework/js-composer/map.php:40
+msgid "bounceOutDown"
+msgstr ""
+
+#: framework/js-composer/map.php:41
+msgid "bounceOutLeft"
+msgstr ""
+
+#: framework/js-composer/map.php:42
+msgid "bounceOutRight"
+msgstr ""
+
+#: framework/js-composer/map.php:43
+msgid "bounceOutUp"
+msgstr ""
+
+#: framework/js-composer/map.php:44
+msgid "fadeIn"
+msgstr ""
+
+#: framework/js-composer/map.php:45
+msgid "fadeInDown"
+msgstr ""
+
+#: framework/js-composer/map.php:46
+msgid "fadeInDownBig"
+msgstr ""
+
+#: framework/js-composer/map.php:47
+msgid "fadeInLeft"
+msgstr ""
+
+#: framework/js-composer/map.php:48
+msgid "fadeInLeftBig"
+msgstr ""
+
+#: framework/js-composer/map.php:49
+msgid "fadeInRight"
+msgstr ""
+
+#: framework/js-composer/map.php:50
+msgid "fadeInRightBig"
+msgstr ""
+
+#: framework/js-composer/map.php:51
+msgid "fadeInUp"
+msgstr ""
+
+#: framework/js-composer/map.php:52
+msgid "fadeInUpBig"
+msgstr ""
+
+#: framework/js-composer/map.php:53
+msgid "fadeOut"
+msgstr ""
+
+#: framework/js-composer/map.php:54
+msgid "fadeOutDown"
+msgstr ""
+
+#: framework/js-composer/map.php:55
+msgid "fadeOutDownBig"
+msgstr ""
+
+#: framework/js-composer/map.php:56
+msgid "fadeOutLeft"
+msgstr ""
+
+#: framework/js-composer/map.php:57
+msgid "fadeOutLeftBig"
+msgstr ""
+
+#: framework/js-composer/map.php:58
+msgid "fadeOutRight"
+msgstr ""
+
+#: framework/js-composer/map.php:59
+msgid "fadeOutRightBig"
+msgstr ""
+
+#: framework/js-composer/map.php:60
+msgid "fadeOutUp"
+msgstr ""
+
+#: framework/js-composer/map.php:61
+msgid "fadeOutUpBig"
+msgstr ""
+
+#: framework/js-composer/map.php:62
+msgid "flip"
+msgstr ""
+
+#: framework/js-composer/map.php:63
+msgid "flipInX"
+msgstr ""
+
+#: framework/js-composer/map.php:64
+msgid "flipInY"
+msgstr ""
+
+#: framework/js-composer/map.php:65
+msgid "flipOutX"
+msgstr ""
+
+#: framework/js-composer/map.php:66
+msgid "flipOutY"
+msgstr ""
+
+#: framework/js-composer/map.php:67
+msgid "lightSpeedIn"
+msgstr ""
+
+#: framework/js-composer/map.php:68
+msgid "lightSpeedOut"
+msgstr ""
+
+#: framework/js-composer/map.php:69
+msgid "rotateIn"
+msgstr ""
+
+#: framework/js-composer/map.php:70
+msgid "rotateInDownLeft"
+msgstr ""
+
+#: framework/js-composer/map.php:71
+msgid "rotateInDownRight"
+msgstr ""
+
+#: framework/js-composer/map.php:72
+msgid "rotateInUpLeft"
+msgstr ""
+
+#: framework/js-composer/map.php:73
+msgid "rotateInUpRight"
+msgstr ""
+
+#: framework/js-composer/map.php:74
+msgid "rotateOut"
+msgstr ""
+
+#: framework/js-composer/map.php:75
+msgid "rotateOutDownLeft"
+msgstr ""
+
+#: framework/js-composer/map.php:76
+msgid "rotateOutDownRight"
+msgstr ""
+
+#: framework/js-composer/map.php:77
+msgid "rotateOutUpLeft"
+msgstr ""
+
+#: framework/js-composer/map.php:78
+msgid "rotateOutUpRight"
+msgstr ""
+
+#: framework/js-composer/map.php:79
+msgid "slideInDown"
+msgstr ""
+
+#: framework/js-composer/map.php:80
+msgid "slideInLeft"
+msgstr ""
+
+#: framework/js-composer/map.php:81
+msgid "slideInRight"
+msgstr ""
+
+#: framework/js-composer/map.php:82
+msgid "slideOutLeft"
+msgstr ""
+
+#: framework/js-composer/map.php:83
+msgid "slideOutRight"
+msgstr ""
+
+#: framework/js-composer/map.php:84
+msgid "slideOutUp"
+msgstr ""
+
+#: framework/js-composer/map.php:85
+msgid "hinge"
+msgstr ""
+
+#: framework/js-composer/map.php:86
+msgid "rollIn"
+msgstr ""
+
+#: framework/js-composer/map.php:87
+msgid "rollOut"
+msgstr ""
+
+#: framework/js-composer/map.php:103
+msgid "Regular size"
+msgstr ""
+
+#: framework/js-composer/map.php:105
+msgid "Small"
+msgstr ""
+
+#: framework/js-composer/map.php:110
+msgid "Same window"
+msgstr ""
+
+#: framework/js-composer/map.php:111
+msgid "New window"
+msgstr ""
+
+#: framework/js-composer/map.php:115 framework/js-composer/map.php:193
+msgid "Row"
+msgstr ""
+
+#: framework/js-composer/map.php:119 framework/js-composer/map.php:330
+#: framework/js-composer/map.php:355 framework/js-composer/map.php:383
+#: framework/js-composer/map.php:427 framework/js-composer/map.php:443
+#: framework/js-composer/map.php:462 framework/js-composer/map.php:478
+#: framework/js-composer/map.php:524 framework/js-composer/map.php:538
+#: framework/js-composer/map.php:564 framework/js-composer/map.php:608
+#: framework/js-composer/map.php:634 framework/js-composer/map.php:675
+#: framework/js-composer/map.php:705 framework/js-composer/map.php:725
+#: framework/js-composer/map.php:771 framework/js-composer/map.php:846
+#: framework/js-composer/map.php:905 framework/js-composer/map.php:920
+#: framework/js-composer/map.php:931 framework/js-composer/map.php:996
+#: framework/js-composer/map.php:1012 framework/js-composer/map.php:1088
+#: framework/js-composer/map.php:1152 framework/js-composer/map.php:1208
+#: framework/js-composer/map.php:1289 framework/js-composer/map.php:1318
+#: framework/js-composer/map.php:1438 framework/js-composer/map.php:1491
+#: framework/js-composer/map.php:1530 framework/js-composer/map.php:1566
+#: framework/js-composer/map.php:1602 framework/js-composer/map.php:1619
+#: framework/js-composer/map.php:1677 framework/js-composer/map.php:1717
+#: framework/js-composer/map.php:1760 framework/js-composer/map.php:1794
+#: framework/js-composer/map.php:1852 framework/js-composer/map.php:1877
+#: framework/js-composer/map.php:1947 framework/js-composer/map.php:1982
+#: framework/js-composer/map.php:2069 framework/js-composer/map.php:2130
+#: framework/js-composer/map.php:2160 framework/js-composer/map.php:2193
+#: framework/js-composer/map.php:2233 framework/js-composer/map.php:2278
+#: framework/js-composer/map.php:2672
+msgid "Content"
+msgstr ""
+
+#: framework/js-composer/map.php:123
+msgid "Custom Background Color"
+msgstr ""
+
+#: framework/js-composer/map.php:125
+msgid "Select backgound color for your row"
+msgstr ""
+
+#: framework/js-composer/map.php:129 framework/js-composer/map.php:436
+msgid "Padding"
+msgstr ""
+
+#: framework/js-composer/map.php:131 framework/js-composer/map.php:137
+msgid ""
+"You can use px, em, %, etc. or enter just number and it will use pixels. "
+msgstr ""
+
+#: framework/js-composer/map.php:135 framework/js-composer/map.php:431
+msgid "Margin"
+msgstr ""
+
+#: framework/js-composer/map.php:141
+msgid "Border Top"
+msgstr ""
+
+#: framework/js-composer/map.php:144 framework/js-composer/map.php:154
+#: framework/js-composer/map.php:2329 framework/js-composer/map.php:2372
+#: framework/js-composer/map.php:2410 framework/js-composer/map.php:2453
+#: framework/js-composer/map.php:2501 framework/js-composer/map.php:2545
+#: framework/js-composer/map.php:2601 framework/js-composer/map.php:2644
+msgid "None"
+msgstr ""
+
+#: framework/js-composer/map.php:145 framework/js-composer/map.php:155
+#: framework/js-composer/map.php:362
+msgid "Top"
+msgstr ""
+
+#: framework/js-composer/map.php:146 framework/js-composer/map.php:156
+#: framework/js-composer/map.php:363
+msgid "Bottom"
+msgstr ""
+
+#: framework/js-composer/map.php:151
+msgid "Border Bottom"
+msgstr ""
+
+#: framework/js-composer/map.php:161
+msgid "Background Image"
+msgstr ""
+
+#: framework/js-composer/map.php:163
+msgid "Select background image for your row"
+msgstr ""
+
+#: framework/js-composer/map.php:167
+msgid "Background Repeat"
+msgstr ""
+
+#: framework/js-composer/map.php:173
+msgid "Repeat-X"
+msgstr ""
+
+#: framework/js-composer/map.php:174
+msgid "Repeat-Y"
+msgstr ""
+
+#: framework/js-composer/map.php:179
+msgid "Extra id name"
+msgstr ""
+
+#: framework/js-composer/map.php:181
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a id name and then refer to it in your css file."
+msgstr ""
+
+#: framework/js-composer/map.php:185 framework/js-composer/map.php:202
+#: framework/js-composer/map.php:259 framework/js-composer/map.php:316
+#: framework/js-composer/map.php:341 framework/js-composer/map.php:369
+#: framework/js-composer/map.php:413 framework/js-composer/map.php:449
+#: framework/js-composer/map.php:511 framework/js-composer/map.php:551
+#: framework/js-composer/map.php:759 framework/js-composer/map.php:835
+#: framework/js-composer/map.php:1028 framework/js-composer/map.php:1102
+#: framework/js-composer/map.php:1195 framework/js-composer/map.php:1276
+#: framework/js-composer/map.php:1306 framework/js-composer/map.php:1388
+#: framework/js-composer/map.php:1477 framework/js-composer/map.php:1515
+#: framework/js-composer/map.php:1665 framework/js-composer/map.php:1705
+#: framework/js-composer/map.php:1748 framework/js-composer/map.php:1782
+#: framework/js-composer/map.php:1840 framework/js-composer/map.php:1935
+#: framework/js-composer/map.php:2252 framework/js-composer/map.php:2296
+msgid "Extra class name"
+msgstr ""
+
+#: framework/js-composer/map.php:187 framework/js-composer/map.php:204
+#: framework/js-composer/map.php:261 framework/js-composer/map.php:318
+#: framework/js-composer/map.php:343 framework/js-composer/map.php:371
+#: framework/js-composer/map.php:415 framework/js-composer/map.php:451
+#: framework/js-composer/map.php:513 framework/js-composer/map.php:553
+#: framework/js-composer/map.php:761 framework/js-composer/map.php:837
+#: framework/js-composer/map.php:1030 framework/js-composer/map.php:1104
+#: framework/js-composer/map.php:1197 framework/js-composer/map.php:1278
+#: framework/js-composer/map.php:1308 framework/js-composer/map.php:1390
+#: framework/js-composer/map.php:1479 framework/js-composer/map.php:1517
+#: framework/js-composer/map.php:1667 framework/js-composer/map.php:1707
+#: framework/js-composer/map.php:1750 framework/js-composer/map.php:1784
+#: framework/js-composer/map.php:1842 framework/js-composer/map.php:1937
+#: framework/js-composer/map.php:2254 framework/js-composer/map.php:2298
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: framework/js-composer/map.php:210 framework/js-composer/map.php:267
+#: framework/js-composer/map.php:2317 framework/js-composer/map.php:2360
+#: framework/js-composer/map.php:2398 framework/js-composer/map.php:2441
+#: framework/js-composer/map.php:2489 framework/js-composer/map.php:2533
+#: framework/js-composer/map.php:2567 framework/js-composer/map.php:2589
+#: framework/js-composer/map.php:2632
+msgid "Column"
+msgstr ""
+
+#: framework/js-composer/map.php:217 framework/js-composer/map.php:274
+#: framework/js-composer/map.php:653 framework/js-composer/map.php:881
+#: framework/js-composer/map.php:2030 framework/js-composer/map.php:2091
+msgid "Animation"
+msgstr ""
+
+#: framework/js-composer/map.php:220 framework/js-composer/map.php:277
+#: framework/js-composer/map.php:587 framework/js-composer/map.php:656
+#: framework/js-composer/map.php:745 framework/js-composer/map.php:884
+#: framework/js-composer/map.php:1544 framework/js-composer/map.php:1580
+#: framework/js-composer/map.php:1808 framework/js-composer/map.php:1903
+#: framework/js-composer/map.php:2025 framework/js-composer/map.php:2033
+#: framework/js-composer/map.php:2094 framework/js-composer/map.php:2687
+#: framework/js-composer/map.php:2701 framework/js-composer/map.php:2715
+msgid "No"
+msgstr ""
+
+#: framework/js-composer/map.php:221 framework/js-composer/map.php:278
+#: framework/js-composer/map.php:586 framework/js-composer/map.php:657
+#: framework/js-composer/map.php:744 framework/js-composer/map.php:885
+#: framework/js-composer/map.php:1543 framework/js-composer/map.php:1579
+#: framework/js-composer/map.php:1807 framework/js-composer/map.php:1902
+#: framework/js-composer/map.php:2024 framework/js-composer/map.php:2034
+#: framework/js-composer/map.php:2095 framework/js-composer/map.php:2688
+#: framework/js-composer/map.php:2702 framework/js-composer/map.php:2716
+msgid "Yes"
+msgstr ""
+
+#: framework/js-composer/map.php:226 framework/js-composer/map.php:283
+#: framework/js-composer/map.php:662 framework/js-composer/map.php:890
+#: framework/js-composer/map.php:2039 framework/js-composer/map.php:2100
+msgid "Animation Style"
+msgstr ""
+
+#: framework/js-composer/map.php:232 framework/js-composer/map.php:289
+#: framework/js-composer/map.php:2045 framework/js-composer/map.php:2106
+msgid "Animation Time"
+msgstr ""
+
+#: framework/js-composer/map.php:234 framework/js-composer/map.php:291
+#: framework/js-composer/map.php:2047 framework/js-composer/map.php:2108
+msgid "The time that column will be appear."
+msgstr ""
+
+#: framework/js-composer/map.php:238 framework/js-composer/map.php:295
+#: framework/js-composer/map.php:2051 framework/js-composer/map.php:2112
+msgid "Animation Delay Time"
+msgstr ""
+
+#: framework/js-composer/map.php:240 framework/js-composer/map.php:297
+#: framework/js-composer/map.php:2053 framework/js-composer/map.php:2114
+msgid "The time before column will be appear."
+msgstr ""
+
+#: framework/js-composer/map.php:244 framework/js-composer/map.php:301
+msgid "Inner Class"
+msgstr ""
+
+#: framework/js-composer/map.php:249 framework/js-composer/map.php:306
+msgid "Inner Padding"
+msgstr ""
+
+#: framework/js-composer/map.php:254 framework/js-composer/map.php:311
+msgid "Inner Margin"
+msgstr ""
+
+#: framework/js-composer/map.php:327
+msgid "Text Block"
+msgstr ""
+
+#: framework/js-composer/map.php:335 framework/js-composer/map.php:1230
+msgid "Text"
+msgstr ""
+
+#: framework/js-composer/map.php:337 framework/js-composer/map.php:998
+msgid "<p>I am text block. Click edit button to change this text.</p>"
+msgstr ""
+
+#: framework/js-composer/map.php:352
+msgid "Divider"
+msgstr ""
+
+#: framework/js-composer/map.php:359 framework/js-composer/map.php:860
+#: framework/js-composer/map.php:1016 framework/js-composer/map.php:1093
+#: framework/js-composer/map.php:1213 framework/js-composer/map.php:1466
+#: framework/js-composer/map.php:1635 framework/js-composer/map.php:2012
+msgid "Style"
+msgstr ""
+
+#: framework/js-composer/map.php:364
+msgid "Simple"
+msgstr ""
+
+#: framework/js-composer/map.php:380
+msgid "Counter Box"
+msgstr ""
+
+#: framework/js-composer/map.php:388 framework/js-composer/map.php:1534
+#: framework/js-composer/map.php:1570 framework/js-composer/map.php:1798
+#: framework/js-composer/map.php:1856 framework/js-composer/map.php:1881
+#: framework/js-composer/map.php:2484
+msgid "Number"
+msgstr ""
+
+#: framework/js-composer/map.php:398 framework/js-composer/map.php:1061
+#: framework/js-composer/map.php:1629 framework/js-composer/map.php:1693
+#: framework/js-composer/map.php:1770 framework/js-composer/map.php:1992
+#: framework/js-composer/map.php:2079
+msgid "Icon"
+msgstr ""
+
+#: framework/js-composer/map.php:406 framework/js-composer/map.php:864
+#: framework/js-composer/map.php:1020 framework/js-composer/map.php:1216
+#: framework/js-composer/map.php:1260 framework/js-composer/map.php:1469
+#: framework/js-composer/map.php:1638
+msgid "Normal"
+msgstr ""
+
+#: framework/js-composer/map.php:424
+msgid "Element"
+msgstr ""
+
+#: framework/js-composer/map.php:445 framework/js-composer/map.php:480
+msgid "<p>Click edit button to change this text.</p>"
+msgstr ""
+
+#: framework/js-composer/map.php:459
+msgid "Team User"
+msgstr ""
+
+#: framework/js-composer/map.php:466 framework/js-composer/map.php:528
+#: framework/js-composer/map.php:1606 framework/js-composer/map.php:2332
+#: framework/js-composer/map.php:2375 framework/js-composer/map.php:2413
+#: framework/js-composer/map.php:2456 framework/js-composer/map.php:2504
+#: framework/js-composer/map.php:2548 framework/js-composer/map.php:2604
+#: framework/js-composer/map.php:2647
+#: woocommerce/single-product-reviews.php:62
+msgid "Name"
+msgstr ""
+
+#: framework/js-composer/map.php:471 framework/js-composer/map.php:871
+msgid "Position"
+msgstr ""
+
+#: framework/js-composer/map.php:484 framework/js-composer/map.php:544
+msgid "Avatar"
+msgstr ""
+
+#: framework/js-composer/map.php:487 framework/js-composer/map.php:547
+#: framework/js-composer/map.php:784 framework/js-composer/map.php:1736
+#: framework/js-composer/map.php:1954 framework/js-composer/map.php:2137
+#: framework/js-composer/map.php:2144
+msgid "Select image from media library."
+msgstr ""
+
+#: framework/js-composer/map.php:496
+msgid "Twitter URL"
+msgstr ""
+
+#: framework/js-composer/map.php:501
+msgid "Google Plus"
+msgstr ""
+
+#: framework/js-composer/map.php:506
+msgid "LinkedIn"
+msgstr ""
+
+#: framework/js-composer/map.php:521
+msgid "Testimonial"
+msgstr ""
+
+#: framework/js-composer/map.php:533
+msgid "Company"
+msgstr ""
+
+#: framework/js-composer/map.php:561
+msgid "Post List"
+msgstr ""
+
+#: framework/js-composer/map.php:568 framework/js-composer/map.php:612
+#: framework/js-composer/map.php:638
+msgid "Number of post"
+msgstr ""
+
+#: framework/js-composer/map.php:573 framework/js-composer/map.php:617
+#: framework/js-composer/map.php:643
+msgid "Category ID"
+msgstr ""
+
+#: framework/js-composer/map.php:578 framework/js-composer/map.php:622
+#: framework/js-composer/map.php:648
+msgid "Tag ID"
+msgstr ""
+
+#: framework/js-composer/map.php:583 framework/js-composer/map.php:1540
+#: framework/js-composer/map.php:1576 framework/js-composer/map.php:1804
+#: framework/js-composer/map.php:1899
+msgid "Carousel"
+msgstr ""
+
+#: framework/js-composer/map.php:592 framework/js-composer/map.php:1549
+#: framework/js-composer/map.php:1585 framework/js-composer/map.php:1813
+#: framework/js-composer/map.php:1862 framework/js-composer/map.php:1908
+msgid "Columns"
+msgstr ""
+
+#: framework/js-composer/map.php:595
+msgid "Three Columns"
+msgstr ""
+
+#: framework/js-composer/map.php:596
+msgid "Four Columns"
+msgstr ""
+
+#: framework/js-composer/map.php:605
+msgid "Short Post List"
+msgstr ""
+
+#: framework/js-composer/map.php:631
+msgid "Masonry Post List"
+msgstr ""
+
+#: framework/js-composer/map.php:672
+msgid "Blog Archive"
+msgstr ""
+
+#: framework/js-composer/map.php:679 framework/js-composer/map.php:709
+msgid "Posts Per Page"
+msgstr ""
+
+#: framework/js-composer/map.php:684
+msgid "Layout"
+msgstr ""
+
+#: framework/js-composer/map.php:693 framework/js-composer/map.php:714
+#: framework/js-composer/map.php:1970 framework/js-composer/map.php:2057
+#: framework/js-composer/map.php:2118
+msgid "Class"
+msgstr ""
+
+#: framework/js-composer/map.php:702
+msgid "Job List"
+msgstr ""
+
+#: framework/js-composer/map.php:722
+msgid "Message Box"
+msgstr ""
+
+#: framework/js-composer/map.php:729
+msgid "Message box type"
+msgstr ""
+
+#: framework/js-composer/map.php:732
+msgid "Informational"
+msgstr ""
+
+#: framework/js-composer/map.php:733
+msgid "Warning"
+msgstr ""
+
+#: framework/js-composer/map.php:734
+msgid "Success"
+msgstr ""
+
+#: framework/js-composer/map.php:735
+msgid "Error"
+msgstr ""
+
+#: framework/js-composer/map.php:737
+msgid "Select message type."
+msgstr ""
+
+#: framework/js-composer/map.php:741
+msgid "Close"
+msgstr ""
+
+#: framework/js-composer/map.php:747
+#: framework/meta-box/inc/fields/file-input.php:40
+msgid "Select"
+msgstr ""
+
+#: framework/js-composer/map.php:753 framework/js-composer/map.php:1647
+#: framework/js-composer/map.php:1742 framework/js-composer/map.php:2006
+msgid "Message text"
+msgstr ""
+
+#: framework/js-composer/map.php:755 framework/js-composer/map.php:1649
+#: framework/js-composer/map.php:1744 framework/js-composer/map.php:2008
+msgid "<p>I am message box. Click edit button to change this text.</p>"
+msgstr ""
+
+#: framework/js-composer/map.php:769
+msgid "Single Image"
+msgstr ""
+
+#: framework/js-composer/map.php:775 framework/js-composer/map.php:1293
+#: framework/js-composer/map.php:1322 framework/js-composer/map.php:2238
+#: framework/js-composer/map.php:2282
+msgid "Widget title"
+msgstr ""
+
+#: framework/js-composer/map.php:777 framework/js-composer/map.php:1295
+#: framework/js-composer/map.php:1324 framework/js-composer/map.php:2240
+#: framework/js-composer/map.php:2284
+msgid "What text use as a widget title. Leave blank if no title is needed."
+msgstr ""
+
+#: framework/js-composer/map.php:781 framework/js-composer/map.php:1733
+#: framework/js-composer/map.php:1951 framework/js-composer/map.php:2134
+msgid "Image"
+msgstr ""
+
+#: framework/js-composer/map.php:788
+msgid "Image size"
+msgstr ""
+
+#: framework/js-composer/map.php:790
+msgid ""
+"Enter image size. Example: thumbnail, medium, large, full or other sizes "
+"defined by current theme. Alternatively enter image size in pixels: 200x100 "
+"(Width x Height). Leave empty to use 'thumbnail' size."
+msgstr ""
+
+#: framework/js-composer/map.php:794
+msgid "Image alignment"
+msgstr ""
+
+#: framework/js-composer/map.php:797
+msgid "Align left"
+msgstr ""
+
+#: framework/js-composer/map.php:798
+msgid "Align right"
+msgstr ""
+
+#: framework/js-composer/map.php:799
+msgid "Align center"
+msgstr ""
+
+#: framework/js-composer/map.php:801
+msgid "Select image alignment."
+msgstr ""
+
+#: framework/js-composer/map.php:805
+msgid "Link to large image?"
+msgstr ""
+
+#: framework/js-composer/map.php:807
+msgid "If selected, image will be linked to the bigger image."
+msgstr ""
+
+#: framework/js-composer/map.php:809 framework/js-composer/map.php:1140
+#: framework/js-composer/map.php:1383
+msgid "Yes, please"
+msgstr ""
+
+#: framework/js-composer/map.php:814
+msgid "Image link"
+msgstr ""
+
+#: framework/js-composer/map.php:816
+msgid "Enter url if you want this image to have link."
+msgstr ""
+
+#: framework/js-composer/map.php:825
+msgid "Link Target"
+msgstr ""
+
+#: framework/js-composer/map.php:844
+msgid "Heading"
+msgstr ""
+
+#: framework/js-composer/map.php:850 framework/js-composer/map.php:909
+msgid "Heading Title"
+msgstr ""
+
+#: framework/js-composer/map.php:855
+msgid "Heading Description"
+msgstr ""
+
+#: framework/js-composer/map.php:862 framework/js-composer/map.php:873
+msgid "Choose your heading style"
+msgstr ""
+
+#: framework/js-composer/map.php:875
+msgid "Heading-Subheading"
+msgstr ""
+
+#: framework/js-composer/map.php:876
+msgid "Subheading-Heading"
+msgstr ""
+
+#: framework/js-composer/map.php:896 framework/js-composer/map.php:914
+msgid "Custom Class"
+msgstr ""
+
+#: framework/js-composer/map.php:903
+msgid "Sub Heading"
+msgstr ""
+
+#: framework/js-composer/map.php:929
+msgid "Pricing Table"
+msgstr ""
+
+#: framework/js-composer/map.php:937
+msgid "Enter title of pricing table element"
+msgstr ""
+
+#: framework/js-composer/map.php:941 framework/js-composer/map.php:1687
+#: framework/js-composer/map.php:2085
+msgid "Description"
+msgstr ""
+
+#: framework/js-composer/map.php:943
+msgid "Enter description of pricing table element"
+msgstr ""
+
+#: framework/js-composer/map.php:949
+msgid "Select background color"
+msgstr ""
+
+#: framework/js-composer/map.php:953 woocommerce/cart/cart.php:28
+#: woocommerce/emails/admin-new-order.php:24
+#: woocommerce/emails/customer-completed-order.php:25
+#: woocommerce/emails/customer-invoice.php:29
+#: woocommerce/emails/customer-note.php:29
+#: woocommerce/emails/customer-processing-order.php:25
+msgid "Price"
+msgstr ""
+
+#: framework/js-composer/map.php:958
+msgid "Price Extend"
+msgstr ""
+
+#: framework/js-composer/map.php:963
+msgid "Price Text"
+msgstr ""
+
+#: framework/js-composer/map.php:965
+msgid "Display text replace price number"
+msgstr ""
+
+#: framework/js-composer/map.php:969
+msgid "Currency"
+msgstr ""
+
+#: framework/js-composer/map.php:974
+msgid "Feature Text"
+msgstr ""
+
+#: framework/js-composer/map.php:979
+msgid "Feature Background"
+msgstr ""
+
+#: framework/js-composer/map.php:981
+msgid "Select feature background color"
+msgstr ""
+
+#: framework/js-composer/map.php:985 framework/js-composer/map.php:1659
+msgid "Button Name"
+msgstr ""
+
+#: framework/js-composer/map.php:990
+msgid "Button link"
+msgstr ""
+
+#: framework/js-composer/map.php:1008
+msgid "Tabs & Timeline"
+msgstr ""
+
+#: framework/js-composer/map.php:1018
+msgid "Choose your tab style"
+msgstr ""
+
+#: framework/js-composer/map.php:1021
+msgid "Left Side"
+msgstr ""
+
+#: framework/js-composer/map.php:1022
+msgid "Right Side"
+msgstr ""
+
+#: framework/js-composer/map.php:1023
+msgid "Timeline"
+msgstr ""
+
+#: framework/js-composer/map.php:1040
+msgid "Tab 1"
+msgstr ""
+
+#: framework/js-composer/map.php:1041
+msgid "Tab 2"
+msgstr ""
+
+#: framework/js-composer/map.php:1047
+msgid "Tab"
+msgstr ""
+
+#: framework/js-composer/map.php:1057
+msgid "Tab title."
+msgstr ""
+
+#: framework/js-composer/map.php:1063
+msgid "Enter icon class"
+msgstr ""
+
+#: framework/js-composer/map.php:1067
+msgid "Year"
+msgstr ""
+
+#: framework/js-composer/map.php:1069 framework/js-composer/map.php:1075
+msgid "Only apply on Timeline Tab"
+msgstr ""
+
+#: framework/js-composer/map.php:1073
+msgid "Column Width"
+msgstr ""
+
+#: framework/js-composer/map.php:1084
+msgid "Accordion"
+msgstr ""
+
+#: framework/js-composer/map.php:1096 framework/js-composer/map.php:1217
+#: framework/js-composer/map.php:1261
+msgid "Border"
+msgstr ""
+
+#: framework/js-composer/map.php:1097 framework/js-composer/map.php:1218
+#: framework/js-composer/map.php:1639
+msgid "Solid"
+msgstr ""
+
+#: framework/js-composer/map.php:1112
+msgid "Add accordion section"
+msgstr ""
+
+#: framework/js-composer/map.php:1116
+msgid "Section 1"
+msgstr ""
+
+#: framework/js-composer/map.php:1117
+msgid "Section 2"
+msgstr ""
+
+#: framework/js-composer/map.php:1122
+msgid "Accordion Section"
+msgstr ""
+
+#: framework/js-composer/map.php:1132
+msgid "Accordion section title."
+msgstr ""
+
+#: framework/js-composer/map.php:1136
+msgid "Open"
+msgstr ""
+
+#: framework/js-composer/map.php:1138
+msgid "If selected, the toggle will be open."
+msgstr ""
+
+#: framework/js-composer/map.php:1150
+msgid "Button"
+msgstr ""
+
+#: framework/js-composer/map.php:1156 framework/js-composer/map.php:1160
+msgid "Text on the button"
+msgstr ""
+
+#: framework/js-composer/map.php:1161
+msgid "Text on the button."
+msgstr ""
+
+#: framework/js-composer/map.php:1165
+msgid "URL (Link)"
+msgstr ""
+
+#: framework/js-composer/map.php:1167
+msgid "Button link."
+msgstr ""
+
+#: framework/js-composer/map.php:1171 framework/js-composer/map.php:1267
+msgid "Target"
+msgstr ""
+
+#: framework/js-composer/map.php:1184
+msgid "Button color."
+msgstr ""
+
+#: framework/js-composer/map.php:1188
+msgid "Size"
+msgstr ""
+
+#: framework/js-composer/map.php:1191
+msgid "Button size."
+msgstr ""
+
+#: framework/js-composer/map.php:1206
+msgid "Call to Action"
+msgstr ""
+
+#: framework/js-composer/map.php:1232
+msgid "Call to action content"
+msgstr ""
+
+#: framework/js-composer/map.php:1233
+msgid "Enter your content."
+msgstr ""
+
+#: framework/js-composer/map.php:1238
+msgid "Button Color"
+msgstr ""
+
+#: framework/js-composer/map.php:1245
+msgid "Button Title"
+msgstr ""
+
+#: framework/js-composer/map.php:1251
+msgid "Button Link"
+msgstr ""
+
+#: framework/js-composer/map.php:1257
+msgid "Button Style"
+msgstr ""
+
+#: framework/js-composer/map.php:1270
+msgid "Blank"
+msgstr ""
+
+#: framework/js-composer/map.php:1271
+msgid "Self"
+msgstr ""
+
+#: framework/js-composer/map.php:1287
+msgid "Video Player"
+msgstr ""
+
+#: framework/js-composer/map.php:1299
+msgid "Video link"
+msgstr ""
+
+#: framework/js-composer/map.php:1302
+#, php-format
+msgid "Link to the video. More about supported formats at %s."
+msgstr ""
+
+#: framework/js-composer/map.php:1316
+msgid "Google Maps"
+msgstr ""
+
+#: framework/js-composer/map.php:1328
+msgid "Google map link"
+msgstr ""
+
+#: framework/js-composer/map.php:1331
+#, php-format
+msgid ""
+"Link to your map. Visit %s find your address and then click \"Link\" button "
+"to obtain your map link."
+msgstr ""
+
+#: framework/js-composer/map.php:1335
+msgid "Map height"
+msgstr ""
+
+#: framework/js-composer/map.php:1337
+msgid "Enter map height in pixels. Example: 200."
+msgstr ""
+
+#: framework/js-composer/map.php:1341
+msgid "Map type"
+msgstr ""
+
+#: framework/js-composer/map.php:1344
+msgid "Map"
+msgstr ""
+
+#: framework/js-composer/map.php:1345
+msgid "Satellite"
+msgstr ""
+
+#: framework/js-composer/map.php:1346
+msgid "Map + Terrain"
+msgstr ""
+
+#: framework/js-composer/map.php:1348
+msgid "Select map type."
+msgstr ""
+
+#: framework/js-composer/map.php:1352
+msgid "Map Zoom"
+msgstr ""
+
+#: framework/js-composer/map.php:1355
+msgid "14 - Default"
+msgstr ""
+
+#: framework/js-composer/map.php:1379
+msgid "Remove info bubble"
+msgstr ""
+
+#: framework/js-composer/map.php:1381
+msgid "If selected, information bubble will be hidden."
+msgstr ""
+
+#: framework/js-composer/map.php:1398 framework/js-composer/map.php:1406
+msgid "Raw HTML"
+msgstr ""
+
+#: framework/js-composer/map.php:1400 framework/js-composer/map.php:1419
+msgid "Structure"
+msgstr ""
+
+#: framework/js-composer/map.php:1409
+msgid "Enter your HTML content."
+msgstr ""
+
+#: framework/js-composer/map.php:1417
+msgid "Raw JS"
+msgstr ""
+
+#: framework/js-composer/map.php:1425
+msgid "Raw js"
+msgstr ""
+
+#: framework/js-composer/map.php:1428
+msgid "Enter your JS code."
+msgstr ""
+
+#: framework/js-composer/map.php:1436
+msgid "Progress Bar"
+msgstr ""
+
+#: framework/js-composer/map.php:1448
+msgid "Percent"
+msgstr ""
+
+#: framework/js-composer/map.php:1454
+msgid "Bar custom color"
+msgstr ""
+
+#: framework/js-composer/map.php:1456 framework/js-composer/map.php:1511
+msgid "Select custom background color for bars."
+msgstr ""
+
+#: framework/js-composer/map.php:1470
+msgid "Strip"
+msgstr ""
+
+#: framework/js-composer/map.php:1471
+msgid "Active"
+msgstr ""
+
+#: framework/js-composer/map.php:1473
+msgid "Select skillbar stype."
+msgstr ""
+
+#: framework/js-composer/map.php:1488
+msgid "Pie chart"
+msgstr ""
+
+#: framework/js-composer/map.php:1495
+msgid "Pie value"
+msgstr ""
+
+#: framework/js-composer/map.php:1497
+msgid "Input graph value here. Witihn a range 0-100."
+msgstr ""
+
+#: framework/js-composer/map.php:1503
+msgid "Background Color"
+msgstr ""
+
+#: framework/js-composer/map.php:1505
+msgid "Select custom background color for this element."
+msgstr ""
+
+#: framework/js-composer/map.php:1509
+msgid "Bar Color"
+msgstr ""
+
+#: framework/js-composer/map.php:1527
+msgid "Member List"
+msgstr ""
+
+#: framework/js-composer/map.php:1563
+msgid "Partner List"
+msgstr ""
+
+#: framework/js-composer/map.php:1599
+msgid "Sidebar"
+msgstr ""
+
+#: framework/js-composer/map.php:1617
+msgid "Icon Box"
+msgstr ""
+
+#: framework/js-composer/map.php:1640
+msgid "Center"
+msgstr ""
+
+#: framework/js-composer/map.php:1653 framework/js-composer/map.php:1699
+#: framework/js-composer/map.php:1727 framework/js-composer/map.php:1998
+#: framework/post-format/views/format-link.php:2
+msgid "URL"
+msgstr ""
+
+#: framework/js-composer/map.php:1675
+msgid "Small Box"
+msgstr ""
+
+#: framework/js-composer/map.php:1715
+msgid "Slider Box"
+msgstr ""
+
+#: framework/js-composer/map.php:1758 framework/js-composer/map.php:2067
+msgid "Round Icon"
+msgstr ""
+
+#: framework/js-composer/map.php:1776 framework/js-composer/map.php:1834
+#: framework/js-composer/map.php:1929 framework/js-composer/map.php:1964
+msgid "Descriptions"
+msgstr ""
+
+#: framework/js-composer/map.php:1792
+msgid "Portfolio List"
+msgstr ""
+
+#: framework/js-composer/map.php:1828 framework/js-composer/map.php:1923
+msgid "Sub Title"
+msgstr ""
+
+#: framework/js-composer/map.php:1850
+msgid "Portfolio Filter"
+msgstr ""
+
+#: framework/js-composer/map.php:1875
+msgid "Blog"
+msgstr ""
+
+#: framework/js-composer/map.php:1945
+msgid "Hoverbox"
+msgstr ""
+
+#: framework/js-composer/map.php:1980
+msgid "Large Icon"
+msgstr ""
+
+#: framework/js-composer/map.php:2015
+msgid "Left"
+msgstr ""
+
+#: framework/js-composer/map.php:2016
+msgid "Right"
+msgstr ""
+
+#: framework/js-composer/map.php:2021
+msgid "Show Dotted"
+msgstr ""
+
+#: framework/js-composer/map.php:2128
+msgid "Cilent"
+msgstr ""
+
+#: framework/js-composer/map.php:2141
+msgid "Image Hover"
+msgstr ""
+
+#: framework/js-composer/map.php:2148
+msgid "Link"
+msgstr ""
+
+#: framework/js-composer/map.php:2158
+msgid "Twitter"
+msgstr ""
+
+#: framework/js-composer/map.php:2164 woocommerce/myaccount/form-login.php:72
+msgid "Username"
+msgstr ""
+
+#: framework/js-composer/map.php:2192
+msgid "Contact Form 7"
+msgstr ""
+
+#: framework/js-composer/map.php:2197
+msgid "Form title"
+msgstr ""
+
+#: framework/js-composer/map.php:2200
+msgid "What text use as form title. Leave blank if no title is needed."
+msgstr ""
+
+#: framework/js-composer/map.php:2204
+msgid "Select contact form"
+msgstr ""
+
+#: framework/js-composer/map.php:2207
+msgid "Choose previously created contact form from the drop down list."
+msgstr ""
+
+#: framework/js-composer/map.php:2231
+msgid "Layer Slider"
+msgstr ""
+
+#: framework/js-composer/map.php:2234
+msgid "Place LayerSlider"
+msgstr ""
+
+#: framework/js-composer/map.php:2244
+msgid "LayerSlider ID"
+msgstr ""
+
+#: framework/js-composer/map.php:2248
+msgid "Select your LayerSlider."
+msgstr ""
+
+#: framework/js-composer/map.php:2277 framework/js-composer/map.php:2288
+msgid "Revolution Slider"
+msgstr ""
+
+#: framework/js-composer/map.php:2292
+msgid "Select your Revolution Slider."
+msgstr ""
+
+#: framework/js-composer/map.php:2306
+msgid "Recent Product"
+msgstr ""
+
+#: framework/js-composer/map.php:2308 framework/js-composer/map.php:2351
+#: framework/js-composer/map.php:2394 framework/js-composer/map.php:2432
+#: framework/js-composer/map.php:2480 framework/js-composer/map.php:2524
+#: framework/js-composer/map.php:2558 framework/js-composer/map.php:2580
+#: framework/js-composer/map.php:2623
+msgid "WooCommerce"
+msgstr ""
+
+#: framework/js-composer/map.php:2312 framework/js-composer/map.php:2355
+#: framework/js-composer/map.php:2436 framework/js-composer/map.php:2528
+#: framework/js-composer/map.php:2562 framework/js-composer/map.php:2584
+#: framework/js-composer/map.php:2627
+msgid "Per Page"
+msgstr ""
+
+#: framework/js-composer/map.php:2326 framework/js-composer/map.php:2369
+#: framework/js-composer/map.php:2407 framework/js-composer/map.php:2450
+#: framework/js-composer/map.php:2498 framework/js-composer/map.php:2542
+#: framework/js-composer/map.php:2598 framework/js-composer/map.php:2641
+msgid "Order by"
+msgstr ""
+
+#: framework/js-composer/map.php:2330 framework/js-composer/map.php:2373
+#: framework/js-composer/map.php:2411 framework/js-composer/map.php:2454
+#: framework/js-composer/map.php:2502 framework/js-composer/map.php:2546
+#: framework/js-composer/map.php:2602 framework/js-composer/map.php:2645
+msgid "ID"
+msgstr ""
+
+#: framework/js-composer/map.php:2333 framework/js-composer/map.php:2376
+#: framework/js-composer/map.php:2414 framework/js-composer/map.php:2457
+#: framework/js-composer/map.php:2505 framework/js-composer/map.php:2549
+#: framework/js-composer/map.php:2605 framework/js-composer/map.php:2648
+#: woocommerce/myaccount/my-orders.php:33
+msgid "Date"
+msgstr ""
+
+#: framework/js-composer/map.php:2338 framework/js-composer/map.php:2381
+#: framework/js-composer/map.php:2419 framework/js-composer/map.php:2462
+#: framework/js-composer/map.php:2610 woocommerce/myaccount/my-orders.php:32
+msgid "Order"
+msgstr ""
+
+#: framework/js-composer/map.php:2341 framework/js-composer/map.php:2384
+#: framework/js-composer/map.php:2422 framework/js-composer/map.php:2465
+#: framework/js-composer/map.php:2613
+msgid "Desc"
+msgstr ""
+
+#: framework/js-composer/map.php:2342 framework/js-composer/map.php:2385
+#: framework/js-composer/map.php:2423 framework/js-composer/map.php:2466
+#: framework/js-composer/map.php:2614
+msgid "ASC"
+msgstr ""
+
+#: framework/js-composer/map.php:2349
+msgid "Feature Product"
+msgstr ""
+
+#: framework/js-composer/map.php:2392 woocommerce/cart/cart.php:27
+#: woocommerce/checkout/form-pay.php:19
+#: woocommerce/checkout/review-order.php:18
+#: woocommerce/emails/admin-new-order.php:22
+#: woocommerce/emails/customer-completed-order.php:23
+#: woocommerce/emails/customer-invoice.php:27
+#: woocommerce/emails/customer-note.php:27
+#: woocommerce/emails/customer-processing-order.php:23
+#: woocommerce/order/order-details.php:20
+msgid "Product"
+msgstr ""
+
+#: framework/js-composer/map.php:2430
+msgid "Product Category"
+msgstr ""
+
+#: framework/js-composer/map.php:2478
+msgid "Product Categories"
+msgstr ""
+
+#: framework/js-composer/map.php:2510
+msgid "Parent"
+msgstr ""
+
+#: framework/js-composer/map.php:2515
+msgid "IDs"
+msgstr ""
+
+#: framework/js-composer/map.php:2522
+msgid "Sale Product"
+msgstr ""
+
+#: framework/js-composer/map.php:2556
+msgid "Best Selling Products"
+msgstr ""
+
+#: framework/js-composer/map.php:2578
+msgid "Top Rated Product"
+msgstr ""
+
+#: framework/js-composer/map.php:2621
+#: woocommerce/single-product/related.php:36
+msgid "Related Products"
+msgstr ""
+
+#: framework/js-composer/map.php:2656
+msgid "No Gravity forms found."
+msgstr ""
+
+#: framework/js-composer/map.php:2661
+msgid "Select a form to display."
+msgstr ""
+
+#: framework/js-composer/map.php:2669
+msgid "Gravity Form"
+msgstr ""
+
+#: framework/js-composer/map.php:2676
+msgid "Form"
+msgstr ""
+
+#: framework/js-composer/map.php:2679
+msgid "Select a form to add it to your post or page."
+msgstr ""
+
+#: framework/js-composer/map.php:2684
+msgid "Display Form Title"
+msgstr ""
+
+#: framework/js-composer/map.php:2690
+msgid "Would you like to display the forms title?"
+msgstr ""
+
+#: framework/js-composer/map.php:2698
+msgid "Display Form Description"
+msgstr ""
+
+#: framework/js-composer/map.php:2704
+msgid "Would you like to display the forms description?"
+msgstr ""
+
+#: framework/js-composer/map.php:2712
+msgid "Enable AJAX?"
+msgstr ""
+
+#: framework/js-composer/map.php:2718
+msgid "Enable AJAX submission?"
+msgstr ""
+
+#: framework/js-composer/map.php:2726
+msgid "Tab Index"
+msgstr ""
+
+#: framework/js-composer/map.php:2728
+msgid ""
+"(Optional) Specify the starting tab index for the fields of this form. Leave "
+"blank if you're not sure what this is."
+msgstr ""
+
+#: framework/meta-box/inc/field.php:185
+msgid "+"
+msgstr ""
+
+#: framework/meta-box/inc/field.php:202
+msgid "&#8211;"
+msgstr ""
+
+#: framework/meta-box/inc/meta-box.php:241
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: framework/meta-box/inc/fields/button.php:35
+msgid "Click me"
+msgstr ""
+
+#: framework/meta-box/inc/fields/file-advanced.php:23
+msgid "Select Files"
+msgstr ""
+
+#: framework/meta-box/inc/fields/file-input.php:17
+msgid "Select File"
+msgstr ""
+
+#: framework/meta-box/inc/fields/file-input.php:42
+msgid "Remove"
+msgstr ""
+
+#: framework/meta-box/inc/fields/file.php:19
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: framework/meta-box/inc/fields/file.php:20
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: framework/meta-box/inc/fields/file.php:70
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: framework/meta-box/inc/fields/image-advanced.php:22
+msgid "Select Images"
+msgstr ""
+
+#: framework/meta-box/inc/fields/map.php:48
+msgid "Find Address"
+msgstr ""
+
+#: framework/meta-box/inc/fields/oembed.php:54
+msgid "Embed HTML not available."
+msgstr ""
+
+#: framework/meta-box/inc/fields/oembed.php:76
+msgid "Preview"
+msgstr ""
+
+#: framework/meta-box/inc/fields/post.php:52
+msgid "Post"
+msgstr ""
+
+#: framework/meta-box/inc/fields/post.php:66
+#: framework/meta-box/inc/fields/taxonomy.php:40
+#, php-format
+msgid "Select a %s"
+msgstr ""
+
+#: framework/post-format/cf-post-formats.php:75
+msgid "Loading..."
+msgstr ""
+
+#: framework/post-format/views/format-audio.php:2
+msgid "Audio URL (oEmbed) or Embed Code"
+msgstr ""
+
+#: framework/post-format/views/format-gallery.php:2
+msgid "Gallery Images"
+msgstr ""
+
+#: framework/post-format/views/format-gallery.php:26
+msgid "Upload Images"
+msgstr ""
+
+#: framework/post-format/views/format-quote.php:3
+msgid "Source Name"
+msgstr ""
+
+#: framework/post-format/views/format-quote.php:7
+msgid "Source URL"
+msgstr ""
+
+#: framework/post-format/views/format-video.php:2
+msgid "Video URL (oEmbed) or Embed Code"
+msgstr ""
+
+#: framework/post-format/views/tabs.php:9
+msgid "Standard"
+msgstr ""
+
+#: woocommerce/content-product.php:54
+msgid "Quick view"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:23
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:44
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:57
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:57
+msgid "Be the first to review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:58
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:64
+msgid "Email"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:67
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:73
+msgid "Your Rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:74
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:75
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:76
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:77
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:78
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:79
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:83
+msgid "Your Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:92
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:16
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:20
+msgid "Return To Shop"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:16
+#, php-format
+msgid "Shipping #%d"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:18
+msgid "Shipping and Handling"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:55
+msgid "Please use the shipping calculator to see available shipping methods."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:59
+msgid ""
+"Please continue to the checkout and enter your full address to see if there "
+"are any available shipping methods."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:63
+msgid "Please fill in your details to see available shipping methods."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:72 woocommerce/cart/cart-shipping.php:78
+msgid ""
+"There doesn&lsquo;t seem to be any available shipping methods. Please double "
+"check your address, or contact us if you need any help."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:93
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:16
+msgid "Cart Totals"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:21
+#: woocommerce/checkout/review-order.php:25
+msgid "Cart Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:75
+#: woocommerce/checkout/review-order.php:79
+msgid "Order Total"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:87
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:90
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+
+#: woocommerce/cart/cart.php:29 woocommerce/emails/admin-new-order.php:23
+#: woocommerce/emails/customer-completed-order.php:24
+#: woocommerce/emails/customer-invoice.php:28
+#: woocommerce/emails/customer-note.php:28
+#: woocommerce/emails/customer-processing-order.php:24
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:30 woocommerce/checkout/review-order.php:19
+#: woocommerce/myaccount/my-orders.php:35
+#: woocommerce/order/order-details.php:21
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:47
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:74
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:118 woocommerce/checkout/form-coupon.php:26
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:118 woocommerce/checkout/form-coupon.php:30
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:125
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/cart/cart.php:126
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:38
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:51
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:59
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:64
+msgid "View Cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:65
+msgid "Checkout"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:22
+msgid "Calculate Shipping"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:28
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:45
+#: woocommerce/cart/shipping-calculator.php:51
+#: woocommerce/cart/shipping-calculator.php:63
+msgid "State / county"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:52
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:72
+msgid "City"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:80
+msgid "Postcode / Zip"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:85
+msgid "Update Totals"
+msgstr ""
+
+#: woocommerce/checkout/cart-errors.php:16
+msgid ""
+"There are some issues with the items in your cart (shown above). Please go "
+"back to the cart page and resolve these issues before checking out."
+msgstr ""
+
+#: woocommerce/checkout/cart-errors.php:20
+msgid "Return To Cart"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:15
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:19
+msgid "Billing Details"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:38
+msgid "Create an account?"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:49
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:51
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:18
+msgid "Have a coupon?"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:19
+msgid "Click here to enter your code"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:14
+msgid "Returning customer?"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:15
+msgid "Click here to login"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:22
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:20
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:21
+msgid "Totals"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:54
+msgid "Payment"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:79
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:89
+msgid "Pay for order"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:29
+msgid "Ship to a different address?"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:55
+#: woocommerce/single-product/tabs/additional-information.php:17
+msgid "Additional Information"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:150
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:152
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:163
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:163
+msgid "Update totals"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:170
+msgid "Place order"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:179
+#, php-format
+msgid ""
+"I&rsquo;ve read and accept the <a href=\"%s\" target=\"_blank\">terms &amp; "
+"conditions</a>"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:18
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:22
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:24
+msgid "Please attempt your purchase again."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:28 woocommerce/myaccount/my-orders.php:71
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:30
+msgid "My Account"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:36 woocommerce/checkout/thankyou.php:67
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:40
+#: woocommerce/emails/customer-completed-order.php:18
+#: woocommerce/emails/customer-invoice.php:22
+#: woocommerce/emails/customer-note.php:22
+#: woocommerce/emails/customer-processing-order.php:18
+msgid "Order:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:44
+msgid "Date:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:48
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:53
+msgid "Payment method:"
+msgstr ""
+
+#: woocommerce/emails/admin-new-order.php:13
+#: woocommerce/emails/plain/admin-new-order.php:13
+#, php-format
+msgid "You have received an order from %s. Their order is as follows:"
+msgstr ""
+
+#: woocommerce/emails/admin-new-order.php:17
+#, php-format
+msgid "Order: %s"
+msgstr ""
+
+#: woocommerce/emails/admin-new-order.php:50
+#: woocommerce/emails/customer-completed-order.php:51
+#: woocommerce/emails/customer-note.php:55
+#: woocommerce/emails/customer-processing-order.php:51
+#: woocommerce/emails/plain/admin-new-order.php:39
+#: woocommerce/order/order-details.php:97
+msgid "Customer details"
+msgstr ""
+
+#: woocommerce/emails/admin-new-order.php:56
+#: woocommerce/emails/customer-completed-order.php:57
+#: woocommerce/emails/customer-note.php:61
+#: woocommerce/emails/customer-processing-order.php:57
+#: woocommerce/emails/plain/admin-new-order.php:45
+#: woocommerce/emails/plain/customer-completed-order.php:44
+#: woocommerce/emails/plain/customer-note.php:52
+#: woocommerce/emails/plain/customer-processing-order.php:44
+msgid "Tel:"
+msgstr ""
+
+#: woocommerce/emails/customer-completed-order.php:14
+#: woocommerce/emails/plain/customer-completed-order.php:13
+#, php-format
+msgid ""
+"Hi there. Your recent order on %s has been completed. Your order details are "
+"shown below for your reference:"
+msgstr ""
+
+#: woocommerce/emails/customer-invoice.php:16
+#: woocommerce/emails/plain/customer-invoice.php:14
+#, php-format
+msgid ""
+"An order has been created for you on %s. To pay for this order please use "
+"the following link: %s"
+msgstr ""
+
+#: woocommerce/emails/customer-invoice.php:16
+msgid "pay"
+msgstr ""
+
+#: woocommerce/emails/customer-new-account.php:14
+#: woocommerce/emails/plain/customer-new-account.php:13
+#, php-format
+msgid ""
+"Thanks for creating an account on %s. Your username is <strong>%s</strong>."
+msgstr ""
+
+#: woocommerce/emails/customer-new-account.php:18
+#, php-format
+msgid "Your password has been automatically generated: <strong>%s</strong>"
+msgstr ""
+
+#: woocommerce/emails/customer-new-account.php:22
+#: woocommerce/emails/plain/customer-new-account.php:18
+#, php-format
+msgid ""
+"You can access your account area to view your orders and change your "
+"password here: %s."
+msgstr ""
+
+#: woocommerce/emails/customer-note.php:14
+#: woocommerce/emails/plain/customer-note.php:13
+msgid "Hello, a note has just been added to your order:"
+msgstr ""
+
+#: woocommerce/emails/customer-note.php:18
+#: woocommerce/emails/plain/customer-note.php:21
+msgid "For your reference, your order details are shown below."
+msgstr ""
+
+#: woocommerce/emails/customer-processing-order.php:14
+#: woocommerce/emails/plain/customer-processing-order.php:13
+msgid ""
+"Your order has been received and is now being processed. Your order details "
+"are shown below for your reference:"
+msgstr ""
+
+#: woocommerce/emails/customer-reset-password.php:14
+#: woocommerce/emails/plain/customer-reset-password.php:13
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+
+#: woocommerce/emails/customer-reset-password.php:15
+#: woocommerce/emails/plain/customer-reset-password.php:15
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: woocommerce/emails/customer-reset-password.php:16
+#: woocommerce/emails/plain/customer-reset-password.php:16
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: woocommerce/emails/customer-reset-password.php:17
+#: woocommerce/emails/plain/customer-reset-password.php:17
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: woocommerce/emails/customer-reset-password.php:20
+msgid "Click here to reset your password"
+msgstr ""
+
+#: woocommerce/emails/email-addresses.php:18
+#: woocommerce/emails/plain/email-addresses.php:12
+msgid "Billing address"
+msgstr ""
+
+#: woocommerce/emails/email-addresses.php:28
+#: woocommerce/emails/plain/email-addresses.php:17
+msgid "Shipping address"
+msgstr ""
+
+#: woocommerce/emails/email-order-items.php:25
+msgid "Product Image"
+msgstr ""
+
+#: woocommerce/emails/email-order-items.php:46
+#: woocommerce/emails/plain/email-order-items.php:46
+#, php-format
+msgid "Download %d"
+msgstr ""
+
+#: woocommerce/emails/email-order-items.php:48
+#: woocommerce/emails/plain/email-order-items.php:48
+msgid "Download"
+msgstr ""
+
+#: woocommerce/emails/plain/admin-new-order.php:19
+#: woocommerce/emails/plain/customer-completed-order.php:19
+#: woocommerce/emails/plain/customer-invoice.php:20
+#: woocommerce/emails/plain/customer-note.php:27
+#: woocommerce/emails/plain/customer-processing-order.php:19
+#, php-format
+msgid "Order number: %s"
+msgstr ""
+
+#: woocommerce/emails/plain/admin-new-order.php:20
+#, php-format
+msgid "Order link: %s"
+msgstr ""
+
+#: woocommerce/emails/plain/admin-new-order.php:21
+#: woocommerce/emails/plain/customer-completed-order.php:20
+#: woocommerce/emails/plain/customer-invoice.php:21
+#: woocommerce/emails/plain/customer-note.php:28
+#: woocommerce/emails/plain/customer-processing-order.php:20
+#, php-format
+msgid "Order date: %s"
+msgstr ""
+
+#: woocommerce/emails/plain/admin-new-order.php:21
+msgid "jS F Y"
+msgstr ""
+
+#: woocommerce/emails/plain/customer-completed-order.php:38
+#: woocommerce/emails/plain/customer-note.php:46
+#: woocommerce/emails/plain/customer-processing-order.php:38
+msgid "Your details"
+msgstr ""
+
+#: woocommerce/emails/plain/customer-new-account.php:16
+#, php-format
+msgid "Your password is <strong>%s</strong>."
+msgstr ""
+
+#: woocommerce/emails/plain/email-order-items.php:32
+#, php-format
+msgid "Quantity: %s"
+msgstr ""
+
+#: woocommerce/emails/plain/email-order-items.php:35
+#, php-format
+msgid "Cost: %s"
+msgstr ""
+
+#: woocommerce/global/breadcrumb.php:63
+msgid "Products tagged &ldquo;"
+msgstr ""
+
+#: woocommerce/global/breadcrumb.php:91 woocommerce/global/breadcrumb.php:189
+msgid "Search results for &ldquo;"
+msgstr ""
+
+#: woocommerce/global/breadcrumb.php:147
+msgid "Error 404"
+msgstr ""
+
+#: woocommerce/global/breadcrumb.php:193
+msgid "Posts tagged &ldquo;"
+msgstr ""
+
+#: woocommerce/global/breadcrumb.php:198
+msgid "Author:"
+msgstr ""
+
+#: woocommerce/global/form-login.php:22
+#: woocommerce/myaccount/form-lost-password.php:24
+msgid "Username or email"
+msgstr ""
+
+#: woocommerce/global/form-login.php:26
+#: woocommerce/myaccount/form-login.php:36
+#: woocommerce/myaccount/form-login.php:86
+msgid "Password"
+msgstr ""
+
+#: woocommerce/global/form-login.php:35
+#: woocommerce/myaccount/form-login.php:25
+#: woocommerce/myaccount/form-login.php:44
+msgid "Login"
+msgstr ""
+
+#: woocommerce/global/form-login.php:38
+#: woocommerce/myaccount/form-login.php:46
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/global/form-login.php:42
+#: woocommerce/myaccount/form-login.php:50
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/loop/no-products-found.php:14
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: woocommerce/loop/orderby.php:22
+msgid "Default sorting"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:23
+msgid "Sort by popularity"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:24
+msgid "Sort by average rating"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:25
+msgid "Sort by newness"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:26
+msgid "Sort by price: low to high"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:27
+msgid "Sort by price: high to low"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:28
+msgid "Showing the single result"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:30
+#, php-format
+msgid "Showing all %d results"
+msgstr ""
+
+#: woocommerce/loop/sale-flash.php:16
+#: woocommerce/single-product/sale-flash.php:16
+msgid "Sale!"
+msgstr ""
+
+#: woocommerce/myaccount/form-add-payment-method.php:40
+msgid ""
+"Sorry, it seems that there are no payment methods which support adding a new "
+"payment method. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+
+#: woocommerce/myaccount/form-add-payment-method.php:48
+msgid "Add Payment Method"
+msgstr ""
+
+#: woocommerce/myaccount/form-change-password.php:20
+#: woocommerce/myaccount/form-lost-password.php:31
+msgid "New password"
+msgstr ""
+
+#: woocommerce/myaccount/form-change-password.php:24
+#: woocommerce/myaccount/form-lost-password.php:35
+msgid "Re-enter new password"
+msgstr ""
+
+#: woocommerce/myaccount/form-change-password.php:29
+#: woocommerce/myaccount/form-lost-password.php:46
+msgid "Save"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:20
+msgid "First name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:24
+msgid "Last name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:28
+#: woocommerce/myaccount/form-login.php:79
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:32
+msgid "Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:36
+msgid "Confirm new password"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:41
+msgid "Save changes"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:14
+#: woocommerce/myaccount/my-address.php:19
+#: woocommerce/myaccount/my-address.php:25
+#: woocommerce/order/order-details.php:118
+msgid "Billing Address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:14
+#: woocommerce/myaccount/my-address.php:20
+#: woocommerce/order/order-details.php:133
+msgid "Shipping Address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:38
+msgid "Save Address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:32
+msgid "Username or email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:63
+#: woocommerce/myaccount/form-login.php:100
+msgid "Register"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:93
+msgid "Anti-spam"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:22
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:28
+msgid "Enter a new password below."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:46
+msgid "Reset Password"
+msgstr ""
+
+#: woocommerce/myaccount/my-account.php:19
+#, php-format
+msgid "Hello <strong>%1$s</strong> (not %1$s? <a href=\"%2$s\">Sign out</a>)."
+msgstr ""
+
+#: woocommerce/myaccount/my-account.php:24
+#, php-format
+msgid ""
+"From your account dashboard you can view your recent orders, manage your "
+"shipping and billing addresses and <a href=\"%s\">edit your password and "
+"account details</a>."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:17
+msgid "My Addresses"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:23
+msgid "My Address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:35
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:45
+msgid "Edit"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:64
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: woocommerce/myaccount/my-downloads.php:18
+msgid "Available downloads"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:26
+msgid "Recent Orders"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:78
+msgid "Cancel"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:84
+msgid "View"
+msgstr ""
+
+#: woocommerce/myaccount/view-order.php:12
+#, php-format
+msgid ""
+"Order <mark class=\"order-number\">%s</mark> was placed on <mark class="
+"\"order-date\">%s</mark> and is currently <mark class=\"order-status\">%s</"
+"mark>."
+msgstr ""
+
+#: woocommerce/myaccount/view-order.php:16 woocommerce/order/tracking.php:31
+msgid "Order Updates"
+msgstr ""
+
+#: woocommerce/myaccount/view-order.php:22 woocommerce/order/tracking.php:37
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:17
+msgid ""
+"To track your order please enter your Order ID in the box below and press "
+"return. This was given to you on your receipt and in the confirmation email "
+"you should have received."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:19
+msgid "Order ID"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:19
+msgid "Found in your order confirmation email."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:20
+msgid "Billing Email"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:20
+msgid "Email you used during checkout."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:23
+msgid "Track"
+msgstr ""
+
+#: woocommerce/order/order-details.php:16
+msgid "Order Details"
+msgstr ""
+
+#: woocommerce/order/order-details.php:66
+#, php-format
+msgid "Download file%s"
+msgstr ""
+
+#: woocommerce/order/order-details.php:102
+msgid "Telephone:"
+msgstr ""
+
+#: woocommerce/order/order-details.php:122
+#: woocommerce/order/order-details.php:137
+#: woocommerce/single-product/meta.php:23
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/order/tracking.php:18
+#, php-format
+msgid "Order %s which was made %s has the status &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/order/tracking.php:18
+msgid "ago"
+msgstr ""
+
+#: woocommerce/order/tracking.php:20
+msgid "and was completed"
+msgstr ""
+
+#: woocommerce/order/tracking.php:20
+msgid " ago"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:23
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/single-product/product-attributes.php:28
+msgid "Weight"
+msgstr ""
+
+#: woocommerce/single-product/product-attributes.php:35
+msgid "Dimensions"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:23
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:25
+#: woocommerce/single-product/review.php:27
+msgid "out of 5"
+msgstr ""
+
+#: woocommerce/single-product/review.php:26
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: woocommerce/single-product/review.php:34
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: woocommerce/single-product/review.php:43
+msgid "verified owner"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:39
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:25
+msgid "Choose an option"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:73
+msgid "Clear selection"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:103
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:14
+msgid "Product Description"
+msgstr ""
