@@ -80,6 +80,7 @@ class C_NextGen_Product_Installer
         }
 
         // TODO: remove this also. NextGen Plus should also be updated in a separate release
+        $plus_version = FALSE;
         if (defined('NGG_PLUS_PLUGIN_VERSION'))
             $plus_version = 'NGG_PLUS_PLUGIN_VERSION';
         if (FALSE !== $plus_version)

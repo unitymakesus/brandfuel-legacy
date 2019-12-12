@@ -2,11 +2,11 @@
 Contributors: photocrati, imagely
 Tags: wordpress gallery plugin, gallery, nextgen, nextgen gallery, photo gallery, image gallery, photography, slideshow, images, photo, photo album, watermark
 Requires at least: 4.0.0
-Stable tag: 3.2.4
-Tested up to: 5.2.1
+Stable tag: 3.2.23
+Tested up to: 5.3.0
 License: GPLv2
 
-The most popular WordPress gallery plugin and one of the most popular plugins of all time with over 25 million downloads.
+The most popular WordPress gallery plugin and one of the most popular plugins of all time with over 27 million downloads.
 
 == Description ==
 
@@ -179,10 +179,67 @@ For more information, feel free to visit the official website for the NextGEN Ga
 
 == Changelog ==
 
+= V3.2.23 - 12.02.2019 =
+* NEW:     There is a new setting under Other Options > Misc to disable enqueueing FontAwesome entirely
+* Changed: WP-CLI commands have been namespaced and numerous new commands have been added
+* Fixed:   Add Gallery / Images page would instruct users to upload zip files even if the multisite settings disallowed it
+* Fixed:   Conflict with Elementor breaking the Attach-To-Post window styling
+* Fixed:   Corrected PHP warnings generated when creating the template & static override directory ('ngg') inside WP_CONTENT_DIR if write access isn't available
+* Fixed:   Gallery slug generation was broken when the gallery name included special characters and broke those galleries as album children
+* Fixed:   Improved performance on Manage Galleries page by simplifying query to count images belonging to galleries
+* Fixed:   Manage Galleries could generate a PHP warning when listing galleries created by users that have since been deleted
+* Fixed:   Shutter Reloaded's navigation icons were always missing
+* Fixed:   Slideshow widget was enqueueing a file that no exists
+* Fixed:   Two basic slideshow displays on one page would cause a JS error that broke their display
+* Fixed:   URL resolution for paginated galleries and dynamic thumbnails was broken if WordPress was in a sub-directory of a sub-directory install (split home & site url)
+
+= V3.2.21 - 11.20.2019 =
+* Changed: Small branding and color update
+
+= V3.2.19 - 10.30.2019 =
+* Fixed:   Conflict with Imagify and the Imagely Lightroom plugin
+* Fixed:   Ability to update image metadata from the Imagely Lightroom plugin
+
+= V3.2.18 - 09.18.2019 =
+* Fixed:   Ability to sort images by random
+* Fixed:   Large images failed to upload on WP Engine
+* Fixed:   Plupload translations not working
+
+= V3.2.15 - 09.10.2019 =
+* NEW:     Automatically retry loading dynamic thumbnail generation urls
+* NEW:     Use NGG_DISABLE_DYNAMIC_IMG_URLS constant to generate images in-process
+* Changed: Dynamic thumbnails are generated in their own PHP processes/url
+* Fixed:   Distorted images and thumbnails
+* Fixed:   Timeout when viewing large galleries
+* Fixed:   Memory optimizations when generating images
+
+= V3.2.11 - 08.27.2019 =
+Secured: IGW queries (reported by Tin Duong of Fortinet's FortiGuard Labs)
+
+= V3.2.10 - 07.23.2019 =
+* Changed: Updated branding for Freemius opt-in
+* Fixed:   IGW queries
+
+= V3.2.8 - 07.16.2019 =
+* NEW:     Added support for the shortcode_atts_ngg filter
+* NEW:     Importing images from a folder now works recursively
+* Fixed:   'Scan folder for new images' did not assign a gallery preview image
+* Fixed:   AJAX actions like image uploads were failing if the default request to '/' went to an index.html instead of index.php
+* Fixed:   Admin page controllers / templates were running twice
+* Fixed:   Compatibility with Delightful Downloads
+* Fixed:   Compatibility with Elementor
+* Fixed:   Copying images to the Media Library was broken if the server lacked the fileinfo extension
+* Fixed:   Disable Manage Gallery's move/copy images submit button to prevent multiple submissions
+* Fixed:   Made 'Recover image from backup' reset thumbnail crop settings
+* Fixed:   Minor error emitted from common.js
+* Fixed:   Move Images / Copy Images now also moves/copies dynamically generated versions
+* Fixed:   The uninstall routine handler was generating a PHP warning accessing an undeclared variable
+* Fixed:   Zip uploads from some macOS users was failing
+
 = V3.2.4 - 06.04.2019 =
 * NEW:     Added some methods to the window.galleries object prototype for retrieving display settings
+* Secured: Zip extraction process (thanks to Slavco Mihajloski / @mslavco)
 * Changed: Removed the now-deprecated 'publish' link from the Manage Gallery image actions row
-* Changed: Updated the uploaded zip extraction process
 * Fixed:   A PHP warning emitted on Gallery > Other Options if the current gallery path cannot be written to
 * Fixed:   Added compatibility check for the official FontAwesome plugin
 * Fixed:   Clicking a checkbox in the Insert Gallery Window's "Sort or exclude images" tab was not functioning

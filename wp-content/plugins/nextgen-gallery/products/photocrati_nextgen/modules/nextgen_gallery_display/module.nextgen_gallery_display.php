@@ -23,7 +23,7 @@ class M_Gallery_Display extends C_Base_Module
 			'photocrati-nextgen_gallery_display',
 			'Gallery Display',
 			'Provides the ability to display gallery of images',
-			'3.1.19',
+			'3.2.17',
 			'https://www.imagely.com/wordpress-gallery-plugin/nextgen-gallery/',
             'Imagely',
             'https://www.imagely.com'
@@ -196,6 +196,10 @@ class M_Gallery_Display extends C_Base_Module
     {
         // The official plugin is active, we don't need to do anything outside of the wp-admin
         if (defined('FONT_AWESOME_OFFICIAL_LOADED') && !is_admin())
+            return;
+
+        $settings = C_NextGen_Settings::get_instance();
+        if ($settings->get('disable_fontawesome'))
             return;
 
         wp_register_script(

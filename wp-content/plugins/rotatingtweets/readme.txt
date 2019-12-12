@@ -3,8 +3,8 @@ Contributors: mpntod
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9XCNM4QSVHYT8
 Tags: shortcode,widget,twitter,rotating,rotate,rotator,tweet,tweets,animation,jquery,jquery cycle,cycle,multilingual,responsive,page builder,do not track,dnt
 Requires at least: 3.2
-Tested up to: 4.9
-Stable tag: 1.9.8
+Tested up to: 5.2
+Stable tag: 1.9.9
 Requires PHP: 5.2.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -13,7 +13,6 @@ Twitter widget and shortcode to show your latest tweets one at a time an animate
 
 == Description ==
 * **Replaces a [shortcode](http://codex.wordpress.org/Shortcode) such as `[rotatingtweets screen_name='your_twitter']`, or a [widget](http://codex.wordpress.org/WordPress_Widgets), with a rotating display of your most recent tweets**
-* **Supports v 1.1 of the Twitter API** ([i.e. it works](https://blog.twitter.com/2013/api-v1-is-retired))
 * **Supports the [new longer tweet format](https://dev.twitter.com/overview/api/upcoming-changes-to-tweets)**
 * **Supports [280 characters](https://blog.twitter.com/official/en_us/topics/product/2017/tweetingmadeeasier.html)**
 * **Space efficient** - instead of showing all your tweets at once, shows one at a time and then smoothly replaces it with the next one. After showing all your tweets, loops back to the beginning again.
@@ -21,7 +20,7 @@ Twitter widget and shortcode to show your latest tweets one at a time an animate
 * **Customizable** - you decide whose tweets to show, how many to show, whether to include retweets and replies, and whether to show a follow button. You can also decide how quickly the tweets rotate and what type of animation to use.
 * **Responsive** - resizes as your page resizes
 * **GDPR-friendly** - with default settings, collects no user data and shares no user data (including IP addresses) with anyone else.  Supports 'Do Not Track' (DNT).
-* Gives you the option to show a fully customizable Twitter 'follow' button.  *For note, because of the way Twitter's code for the Twitter button works, use of this button currently means that site visitors who have not set 'Do Not Track' will have their visit tracked by Twitter.*
+* Gives you the option to show a fully customizable Twitter 'follow' button. *For note, because of the way Twitter's code for the Twitter button works, the button will display as a regular text link to site visitors who have set 'Do Not Track'.*
 * Replaces [t.co](http://t.co) links with the original link
 * Caches the most recent data from Twitter to avoid problems with rate limiting
 * Uses [jQuery](http://jquery.com/), [jQuery.Cycle](http://jquery.malsup.com/cycle/) and [jQuery.Cycle2](http://jquery.malsup.com/cycle2/) to produce a nice smooth result.
@@ -95,6 +94,7 @@ Possible variables for the shortcode include:
 	* `shuffle` = `'0'` or `'1'` - shuffle the order that Tweets display - default is `'0'`
 	* `merge_cache` = `'0'` or `'1'` - switches caching of searches on or off - default is `'1'` (i.e. on)
 	* `auto_height` = `'0'` or `'1'` - switches auto-height calculation of the Rotating Tweets container on or off - default is `'1'` (i.e. on)
+	* `show_line_breaks` = `'0'` or `'1'` - displays line breaks in the tweet - default is `'0'` (i.e. off)
 
 * **Caching**
 	* `w3tc_render_to` = 'your_choice_of_random_string' - used to support 'fragment caching' by [W3 Total Cache](https://wordpress.org/plugins/w3-total-cache/).  For this to work, you also need to ensure that `W3TC_DYNAMIC_SECURITY` is defined in your `wp-config.php` file and that you are not using 'HTTP Compression' on the W3 Total Cache 'Browser Cache' settings page or 'Enhanced Disk caching' on the W3 Total Cache 'Page Cache' settings page.
@@ -192,10 +192,13 @@ into your CSS - changing `123px;` to the width you're aiming at - either via [ad
 You can do this by going to the `rotatingtweets/css` directory, opening `rotatingtweets-sample.css` and copying its contents (modifying the link to the bird graphic to match your site) into [additional CSS](https://codex.wordpress.org/CSS#Custom_CSS_in_WordPress) (the preferred approach from Wordpress 4.7 onwards) on the [Appearance Customize Screen](https://codex.wordpress.org/Appearance_Customize_Screen) page. Alternatively rename `rotatingtweets-sample.css` to `rotatingtweets.css` and put it in the `wp-content/uploads/` directory.  Or copy the CSS into your own template files.  Any of these approaches will display a Twitter bird to the left of your tweets.
 
 == Upgrade notice ==
-= 1.9.8 =
-* Fixes problem with Twitter intents for users with a high number user ID
+= 1.9.9 =
+* [Security Update] Adds `rel='noopener'` to `_blank` links
 
 == Changelog ==
+= 1.9.9 =
+* [Security Update] Adds `rel='noopener'` to `_blank` links
+
 = 1.9.8 =
 * Fixes problem with Twitter intents for users with a high number user ID
 

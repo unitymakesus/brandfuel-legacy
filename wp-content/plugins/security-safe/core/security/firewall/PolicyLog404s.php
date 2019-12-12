@@ -22,7 +22,7 @@ class PolicyLog404s extends Firewall {
         // Run parent class constructor first
         parent::__construct();
 
-        add_action( 'wp', array( $this, 'error' ) );
+        add_action( 'wp', [ $this, 'error' ] );
 
 	} // __construct()
 
@@ -38,7 +38,7 @@ class PolicyLog404s extends Firewall {
             if ( Yoda::is_blacklisted() ) { 
                 
                 // Block display of any 404 errors
-                $this->block( '404s', 'IP is blacklisted. [' . __LINE__ . ']' );
+                $this->block( '404s', __( 'IP is blacklisted.', SECSAFE_SLUG ) . ' [' . __LINE__ . ']' );
                 return; 
 
             }

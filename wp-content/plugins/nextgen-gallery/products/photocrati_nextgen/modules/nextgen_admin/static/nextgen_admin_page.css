@@ -20,7 +20,8 @@
  *      interfaces will use the same styling, be they basic or pro. Adding it here also acts to 
  *      ensure style consistency for users who update to the NextGEN redesign version, while still 
  *      running an older version of NextGEN Pro.
- *  7) NGG Admin CSS: Media Queries
+ *  7) NGG Admin CSS: Freemius Customizations
+ *  8) NGG Admin CSS: Media Queries
  *
  ***/
 
@@ -333,10 +334,59 @@ table.nextgen_settings_position {
     float: right;
     margin: -98px 0 0 0;
     font-size: 15px;
-    font-weight: 500;
+    font-weight: bold;
     color: black;
     line-height: 80px;
     letter-spacing: .3px;
+}
+
+#ngg_page_content .ngg_page_content_header p.ngg-header-promo {
+    margin: -113px -40px 0 0;
+    color: black;
+    line-height: 80px;
+    padding: 10px 20px;
+    background: #9ebc1b;
+    color: white;
+    line-height: 20px;
+    padding: 30px 290px 30px 24px;
+    display: inline-block;
+    max-width: 720px;
+    box-sizing: border-box;
+}
+
+#ngg_page_content .ngg_page_content_header .ngg-header-promo a {
+    margin-left: 16px !important;
+    position: absolute;
+    top: 32px;
+    right: 24px;
+    height: 38px !important;
+    line-height: 38px !important;
+}
+
+#ngg_page_content .ngg_page_content_header p.ngg-header-promo.black-friday {
+    padding: 30px 330px 30px 40px;
+    font-size: 16px;
+}
+
+#ngg_page_content .ngg_page_content_header p.ngg-header-promo.black-friday span {
+    text-transform: uppercase;
+    padding-bottom: 4px;
+    display: inline-block;
+    font-size: 20px;
+}
+
+#ngg_page_content .ngg_page_content_header .ngg-header-promo.black-friday a {
+    right: 40px;
+}
+
+#ngg_page_content .ngg_page_content_header .ngg-header-promo a:after {
+    content: "\f345";
+    font: normal 16px dashicons;
+    color: white !important;
+    display: inline-block;
+    position: relative;
+    top: 4px;
+    left: 6px;
 }
 
 #ngg_page_content .ngg_page_content_header .ngg_save_settings_button {
@@ -704,12 +754,34 @@ table.nextgen_settings_position {
     font-family: Lato, sans-serif;
     font-size: 14px;
     font-weight: 600;
+    background: #9ebc1b;
+    line-height: 50px !important;
+    display: none;
+}
+
+#attach_to_post_tabs #displayed_tab .ngg_options_promo {
+    display: table-cell;
 }
 
 .ngg_options_promo a {
     text-decoration: none;
     font-weight: 600;
-    margin-left: 6px;
+    margin-left: 10px;
+    background: black;
+    color: #fff !important;
+    padding: 10px 20px;
+    font-size: 12px !important;
+    text-transform: uppercase;
+}
+
+.ngg_options_promo a:after {
+    content: "\f345";
+    font: normal 13px dashicons;
+    color: white !important;
+    display: inline-block;
+    position: relative;
+    top: 2px;
+    left: 6px;
 }
 
 .gallery_page_ngg_other_options #ngg_page_content .ngg_page_content_main tbody tr td.ngg_options_promo {
@@ -1058,17 +1130,117 @@ table.nextgen_settings_position {
     background: black !important;
 }
 
-/* 7) NGG Admin CSS: Media Queries */
+/* 7) NGG Admin CSS: Freemius Customizations */
 
-@media (max-width: 1030px) {
-    #ngg_page_content .ngg_page_content_header p {
-        padding: 0 20px;
-    }
+.ngg-admin #fs_connect {
+    box-shadow: none;
+    border: 1px solid #e0e0e0;
+    margin-left: 10px;
 }
 
-@media (max-width: 900px) {
-    #ngg_page_content .ngg_page_content_header p {
-        display: none;
+.ngg-admin #fs_connect .fs-content p {
+    font-size: 17px;
+    font-family: Lato, sans-serif;
+}
+
+.ngg-admin #fs_connect a {
+    color: #9fbb1a;
+}
+
+.ngg-admin #fs_connect a:hover {
+    color: #b8d433;
+}
+
+.ngg-admin #fs_connect .fs-visual {
+    padding: 30px 20px !important;
+    background: #fff;
+}
+
+.ngg-admin #fs_connect .fs-visual .fs-plugin-icon, 
+.ngg-admin #fs_connect .fs-visual .fs-connect-logo, 
+.ngg-admin #fs_connect .fs-visual .fs-site-icon {
+    border: none;
+    padding: 0;
+    top: 30px;
+}
+
+.ngg-admin #fs_connect .fs-content {
+    padding: 30px 20px;
+}
+
+.ngg-admin #fs_connect .fs-actions,
+.ngg-admin #fs_connect .fs-permissions,
+.ngg-admin #fs_connect .fs-permissions.fs-open,
+.ngg-admin #fs_connect .fs-terms {
+    background: black;
+    color: #fff;
+    padding: 0 !important;
+}
+
+.ngg-admin #fs_connect .fs-actions {
+    padding: 30px 20px !important;
+}
+
+.ngg-admin #fs_connect .fs-permissions ul li i.dashicons {
+    color: #9fbb1a;
+}
+
+.ngg-admin #fs_connect .fs-permissions.fs-open ul {
+    margin-bottom: 0;
+    padding-bottom: 20px;
+}
+
+.ngg-admin #fs_connect .fs-permissions ul li div span {
+    color: #fff;
+}
+
+.ngg-admin #fs_connect .fs-terms {
+    padding-bottom: 15px !important;
+}
+
+.ngg-admin #fs_connect .fs-actions .button.button-primary {
+    background-color: #9fbb1a !important;
+    color: #fff !important;
+    border: none !important;
+    box-shadow: none !important;
+    text-shadow: none !important;
+    height: 35px !important;
+    padding: 0 24px !important;
+    line-height: 35px;
+    width: auto !important;
+    border-radius: 0;
+    text-transform: uppercase;
+    font-size: 12px;
+    letter-spacing: .5px;
+    font-family: Lato, sans-serif;
+}
+
+.ngg-admin #fs_connect .fs-actions .button.button-secondary {
+    border: none !important;
+    box-shadow: none !important;
+    text-shadow: none !important;
+    height: 35px !important;
+    padding: 0 24px !important;
+    line-height: 35px;
+    width: auto !important;
+    border-radius: 0;
+    text-transform: uppercase;
+    font-size: 12px;
+    letter-spacing: .5px;
+    font-family: Lato, sans-serif;
+}
+
+.ngg-admin #fs_connect .fs-permissions a:hover,
+.ngg-admin #fs_connect .fs-terms a:hover {
+    color: #fff;
+}
+
+/* 8) NGG Admin CSS: Media Queries */
+
+@media (max-width: 1240px) {
+    #ngg_page_content .ngg_page_content_header p,
+    .ngg_options_promo {
+        display: none !important;
     }
 }
 

@@ -862,11 +862,12 @@ class nggManageGallery {
 			}
 		}
 
-		if (isset ($_POST['scanfolder']))  {
-		// Rescan folder
+        // Rescan folder
+        if (isset ($_POST['scanfolder']))
+        {
 			check_admin_referer('ngg_updategallery');
 
-			$gallerypath = $wpdb->get_var("SELECT path FROM $wpdb->nggallery WHERE gid = '$this->gid' ");
+			$gallerypath = $wpdb->get_var("SELECT `path` FROM {$wpdb->nggallery} WHERE `gid` = '{$this->gid}'");
 			nggAdmin::import_gallery($gallerypath, $this->gid);
 		}
 

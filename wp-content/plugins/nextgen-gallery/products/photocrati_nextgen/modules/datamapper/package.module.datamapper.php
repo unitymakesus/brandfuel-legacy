@@ -1060,6 +1060,10 @@ class C_CustomTable_DataMapper_Driver_Mixin extends Mixin
         $this->object->update_columns_cache();
         return $return;
     }
+    function get_column_names()
+    {
+        return array_keys($this->object->_columns);
+    }
     /**
      * Migrates the schema of the database
      */

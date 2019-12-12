@@ -147,6 +147,7 @@
         return obj;
     };
 
+    if (typeof window.galleries !== 'undefined') {
     Object.setPrototypeOf(
         window.galleries,
         {
@@ -236,6 +237,6 @@
                 return retval;
             }
         }
-    );
+    ); }
 
 })(jQuery);
