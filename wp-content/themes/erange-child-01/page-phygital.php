@@ -58,7 +58,13 @@ Template Name: BF Phygital
 
           <div id="content" class="col-md-12 bottom-sm-30">
 
-            <!--content goes in here--><?php the_content(); ?>
+            <!--content goes in here-->
+            <?php while ( have_posts() ) : the_post(); ?>
+
+              <?php the_content(); ?>
+
+            <?php endwhile; ?>
+
 
           </div><!-- // #content -->
 
